@@ -1,5 +1,6 @@
 
 /logs
-data/oxide.*.data
+/data
 GameStoresRUST.json
 RustStore.json
+!data/Kits.json
