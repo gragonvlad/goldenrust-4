@@ -1,3 +1,0 @@
-03:00 [Warning] [Welcomer] ✔ ☣ Jericho² joined the server from Turkey
-03:05 [Info] GameStores sent stats successful!
-03:05 [Warning] [Welcomer] ✘ ☣ Jericho² left the server (Disconnected)

@@ -1,7 +1,0 @@
-02:12 [Warning] [Welcomer] ✔ ☣ Jericho² joined the server from Turkey
-02:34 [Info] GameStores sent stats successful!
-02:37 [Info] GameStores sent stats successful!
-03:16 [Warning] [Welcomer] ✘ ☣ Jericho² left the server (Disconnected)
-18:08 [Warning] [Welcomer] ✔ elka joined the server from Russia
-18:09 [Warning] [Welcomer] ✘ elka left the server (Disconnected)
-20:01 [Info] GameStores sent stats successful!
