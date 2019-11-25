@@ -1,6 +1,6 @@
-
 /logs
-/data
 GameStoresRUST.json
 RustStore.json
-!data/Kits.json
+/data/*
+!/data/Kits.json
+
