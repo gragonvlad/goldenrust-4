@@ -1,0 +1,108 @@
+14:10 [Info] Loading Oxide Core v2.0.3867...
+14:10 [Info] Loading extensions...
+14:10 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+14:10 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+14:10 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+14:10 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+14:10 [Info] Loaded extension Rust v2.0.4280 by Oxide and Contributors
+14:10 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+14:10 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+14:10 [Info] Using Covalence provider for game 'Rust'
+14:10 [Info] Loading plugins...
+14:10 [Info] Loaded plugin Rust v2.0.4280 by Oxide and Contributors
+14:10 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+14:10 [Info] AdminRadar, ConvertStatus, FlyingCarpet, InfoPanel, PermissionsManager, RSM, RustStore, StackSizeController, ToolsGatherManager, Vanish, Wasdik, Wasdik2 and Welcomer were compiled successfully in 4761ms
+14:10 [Info] Loaded plugin Admin Radar v4.5.5 by nivex
+14:10 [Info] Loaded plugin Convert Status v1.0.8 by Orange
+14:10 [Info] Loaded plugin FlyingCarpet v1.1.1 by RFC1920
+14:10 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+14:10 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+14:10 [Info] Loaded plugin RSM v1.0.2 by RustServerManager
+14:10 [Info] Loaded plugin RustStore v1.21.41 by Bombardir, Moscow.OVH
+14:10 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+14:10 [Info] Loaded plugin Tools Gather Manager v1.0.6 by Wasdik
+14:10 [Info] Loaded plugin Vanish v0.7.4 by nivex
+14:10 [Info] [First plugin] A baby plugin is born!
+14:10 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:10 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:10 [Info] Loaded plugin Welcomer v1.4.1 by Tricky
+14:15 [Info] Oxide.Rust Version: 2.0.4280
+14:15 [Info] IP address from external API: 88.99.162.170
+14:15 [Info] [Admin Radar] Took 115.9986ms to cache 2139/20447 entities
+14:15 [Warning] Calling 'OnServerInitialized' on 'AdminRadar v4.5.5' took 166ms
+14:15 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 454ms
+14:31 [Warning] Calling 'Unload' on 'AdminRadar v4.5.5' took 517ms
+14:31 [Info] Unloaded plugin Admin Radar v4.5.5 by nivex
+14:31 [Info] Unloaded plugin Convert Status v1.0.8 by Orange
+14:31 [Warning] Calling 'Unload' on 'FlyingCarpet v1.1.1' took 144ms
+14:31 [Info] Unloaded plugin FlyingCarpet v1.1.1 by RFC1920
+14:31 [Info] Unloaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+14:31 [Info] Unloaded plugin PermissionsManager v0.1.1 by Steenamaroo
+14:31 [Info] Unloaded plugin RSM v1.0.2 by RustServerManager
+14:31 [Info] Unloaded plugin RustStore v1.21.41 by Bombardir, Moscow.OVH
+14:31 [Info] Unloaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+14:31 [Info] Unloaded plugin Tools Gather Manager v1.0.6 by Wasdik
+14:31 [Info] Unloaded plugin Vanish v0.7.4 by nivex
+14:31 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:31 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:31 [Info] Unloaded plugin Welcomer v1.4.1 by Tricky
+14:32 [Info] Loading Oxide Core v2.0.3867...
+14:32 [Info] Loading extensions...
+14:32 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+14:32 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+14:32 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+14:32 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+14:32 [Info] Loaded extension Rust v2.0.4280 by Oxide and Contributors
+14:32 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+14:32 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+14:32 [Info] Using Covalence provider for game 'Rust'
+14:32 [Info] Loading plugins...
+14:32 [Info] Loaded plugin Rust v2.0.4280 by Oxide and Contributors
+14:32 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+14:32 [Info] AdminRadar, ConvertStatus, FlyingCarpet, InfoPanel, PermissionsManager, RSM, RustStore, StackSizeController, ToolsGatherManager, Vanish, Wasdik, Wasdik2 and Welcomer were compiled successfully in 4681ms
+14:32 [Info] Loaded plugin Admin Radar v4.5.5 by nivex
+14:32 [Info] Loaded plugin Convert Status v1.0.8 by Orange
+14:32 [Info] Loaded plugin FlyingCarpet v1.1.1 by RFC1920
+14:32 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+14:32 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+14:32 [Info] Loaded plugin RSM v1.0.2 by RustServerManager
+14:32 [Info] Loaded plugin RustStore v1.21.41 by Bombardir, Moscow.OVH
+14:32 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+14:32 [Info] Loaded plugin Tools Gather Manager v1.0.6 by Wasdik
+14:32 [Info] Loaded plugin Vanish v0.7.4 by nivex
+14:32 [Info] [First plugin] A baby plugin is born!
+14:32 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:32 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:32 [Info] Loaded plugin Welcomer v1.4.1 by Tricky
+14:33 [Info] Loading Oxide Core v2.0.3867...
+14:33 [Info] Loading extensions...
+14:33 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+14:33 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+14:33 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+14:33 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+14:33 [Info] Loaded extension Rust v2.0.4280 by Oxide and Contributors
+14:33 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+14:33 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+14:33 [Info] Using Covalence provider for game 'Rust'
+14:33 [Info] Loading plugins...
+14:33 [Info] Loaded plugin Rust v2.0.4280 by Oxide and Contributors
+14:33 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+14:33 [Warning] Compiler may have been closed by interference from security software or install is missing files
+14:33 [Error] Error while compiling: compiler version  disconnected
+14:33 [Error] Error while compiling: compiler version  disconnected
+14:33 [Error] Error while compiling: compiler version  disconnected
+14:33 [Error] Error while compiling: compiler version  disconnected
+14:33 [Error] Error while compiling: compiler version  disconnected
+14:33 [Error] Error while compiling: compiler version  disconnected
+14:33 [Error] Error while compiling: compiler version  disconnected
+14:33 [Error] Error while compiling: compiler version  disconnected
+14:33 [Error] Error while compiling: compiler version  disconnected
+14:33 [Error] Error while compiling: compiler version  disconnected
+14:33 [Error] Error while compiling: compiler version  disconnected
+14:33 [Error] Error while compiling: compiler version  disconnected
+14:33 [Error] Error while compiling: compiler version  disconnected
+14:36 [Info] Oxide.Rust Version: 2.0.4280
+14:37 [Info] IP address from external API: 88.99.162.170
+14:37 [Info] [Admin Radar] Took 142.9998ms to cache 2139/20833 entities
+14:37 [Warning] Calling 'OnServerInitialized' on 'AdminRadar v4.5.5' took 190ms
+14:37 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 472ms

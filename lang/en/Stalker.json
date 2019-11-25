@@ -1,0 +1,11 @@
+{
+  "Ejection": "<size=15><color=#32CD32>Attention!!!</color>\nEjection radiation detected!\nYou have 30 second's to find shelter!</size>",
+  "TenSec": "<size=15><color=#B6B6B6>10 seconds remaining before ejection radiation started!</color></size>",
+  "EjectionStart": "<size=15><color=#FFA500>!!! Ejection radiation started !!!</color>\nUrgently find a shelter and do not leave it until the end of the ejection!</size>",
+  "EjectionEnd": "<size=15><color=#FFA500>Ejection radiation ended!</color>\nYou can leave the shelter!</size>",
+  "GRadiationScaleDown": "<size=15><color=#B6B6B6>Ejection radiation ends!\nScientists are testing the atmosphere!</color></size>",
+  "NoAcces": "You don't have the permissions to use this command",
+  "BadSyn": "Syntax: <color=#BEF781>/st start</color> - Start Event\n<color=#BEF781>/st stop</color> - Stoped Event",
+  "AlStarted": "Event Already started",
+  "NotStarted": "Event Not started"
+}

@@ -1,0 +1,25 @@
+14:18 [Warning] Calling 'Unload' on 'AdminRadar v4.5.5' took 463ms
+14:18 [Info] Unloaded plugin Admin Radar v4.5.5 by nivex
+14:18 [Info] Unloaded plugin Convert Status v1.0.8 by Orange
+14:18 [Info] GameStores sent stats successful!
+14:18 [Error] Web request produced exception (Url: https://gamestores.ru/api/?shop_id=22374&secret=0c743d104bebacc6a13437a94e44f075&server=15970&method=topData&data=[{"player_id":"76561198309441475","victim_id":"76561198309441475","type":"kill","time":"1573909218.25508","dataType":"death"},{"player_id":"76561198309441475","username":"Wasdik","played":"4720","time":"1573910515.38448","dataType":"leave"},{"player_id":null,"victim_id":"9069473","type":"kill","time":"1573945915.0661","dataType":"death"},{"player_id":null,"victim_id":"7994311","type":"kill","time":"1573968212.74581","dataType":"death"},{"player_id":null,"victim_id":"4518855","type":"kill","time":"1573985492.16701","dataType":"death"}]) (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Core.Libraries.WebRequests+WebRequest.<WaitForResponse>b__40_0 (System.IAsyncResult res) [0x00000] in <4452f821def6406d834e4149849fe7ea>:0 
+14:18 [Info] Unloaded plugin GameStoresRUST v0.3.0 by HOUGAN # GAMESTORES
+14:18 [Info] Unloaded plugin Image Library v2.0.46 by Absolut & K1lly0u
+14:18 [Info] Unloaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+14:18 [Info] Unloaded plugin PermissionsManager v0.1.1 by Steenamaroo
+14:18 [Info] Unloaded plugin Quests v2.2.7 by k1lly0u modet GRAZYCAT
+14:18 [Info] Unloaded plugin RSM v1.0.2 by RustServerManager
+14:18 [Info] Unloaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+14:18 [Info] Unloaded plugin Tools Gather Manager v1.0.6 by Wasdik
+14:18 [Info] Unloaded plugin Vanish v0.7.4 by nivex
+14:18 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:18 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:18 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:18 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:18 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:18 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:18 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:18 [Info] Unloaded plugin Welcomer v1.4.1 by Tricky
+14:18 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:18 [Info] Unloaded plugin Kits v3.2.93 by Reneb

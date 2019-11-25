@@ -1,0 +1,6 @@
+23:04 [Warning] [Welcomer] ✔ Wasdik joined the server from Ukraine
+23:06 [Warning] [Welcomer] ✘ Wasdik left the server (Disconnected)
+23:08 [Warning] [Welcomer] ✔ Wasdik joined the server from Ukraine
+23:08 [Warning] [Convert Status] Wasdik converted out of admin status
+23:08 [Warning] [Convert Status] Wasdik converted into admin status
+23:33 [Warning] [Welcomer] ✘ Wasdik left the server (Disconnected)

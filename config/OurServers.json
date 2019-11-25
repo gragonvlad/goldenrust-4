@@ -1,0 +1,25 @@
+{
+  "Servers configure": [
+    {
+      "Name of your server in interface": "Golden RUST #1 HUNT RPG [Barren]",
+      "Description of your server in interface": "HUNT RPG [Barren]",
+      "IP:Port of server (ex: 127.0.0.1:12000)": "88.99.162.170:28015",
+      "Interface width (increase it, if your description is very length)": 250
+    },
+    {
+      "Name of your server in interface": "Golden RUST #2 Wasdik YT [Barren]",
+      "Description of your server in interface": "Wasdik YT [Barren]",
+      "IP:Port of server (ex: 127.0.0.1:12000)": "88.99.162.170:29015",
+      "Interface width (increase it, if your description is very length)": 250
+    },
+    {
+      "Name of your server in interface": "Golden RUST #3 Battlefield x10 [Procedural Map]",
+      "Description of your server in interface": "battlefield x10 [Procedural Map]",
+      "IP:Port of server (ex: 127.0.0.1:12000)": "88.99.162.170:30015",
+      "Interface width (increase it, if your description is very length)": 250
+    }
+  ],
+  "Command to open interface": "servers",
+  "Use chat instead of UI": false,
+  "Information update interval in seconds (should be > 30)": 60
+}

@@ -1,0 +1,20 @@
+{
+  "Settings": {
+    "Max Radiation Power": 30.0,
+    "Time during which the radiation intensity decreases (sec)": 45,
+    "Enable Globar Radiation?": true,
+    "Ejection Time Max (sec)": 180,
+    "Ejection Time Min (sec)": 60,
+    "Ejection Time Interval Max (min)": 120,
+    "Ejection Time Interval Min (min)": 60,
+    "Shelter Settings": {
+      "Radiation protection in buildings of a certain type in % (0% to 100%)": {
+        "Twigs": 20,
+        "Wood": 40,
+        "Stone": 60,
+        "Metal": 80,
+        "TopTier": 100
+      }
+    }
+  }
+}

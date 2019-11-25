@@ -1,0 +1,35 @@
+11:07 [Error] Error while compiling: OreBonus.cs(1864,30): error CS1010: Newline in constant
+12:52 [Error] Error while compiling: OreBonus3.cs(1863,32): error CS1010: Newline in constant
+13:12 [Info] OreBonus3 was compiled successfully in 3391ms
+13:12 [Warning] OreBonus3 has polluted the global namespace by defining OreBonus
+13:12 [Error] Unable to find main plugin class: OreBonus3
+13:12 [Info] No previous version to rollback plugin: OreBonus3
+13:12 [Info] OreBonus was compiled successfully in 641ms
+13:12 [Warning] [OreBonus] -----------------------------------
+13:12 [Warning] [OreBonus]               OreBonus             
+13:12 [Warning] [OreBonus]           Author = DezLife         
+13:12 [Warning] [OreBonus]         vk.com/skyeyeplugins       
+13:12 [Warning] [OreBonus]          Version = 2.0.30       
+13:12 [Warning] [OreBonus] -----------------------------------
+13:12 [Warning] Calling 'OnServerInitialized' on 'OreBonus v2.0.30' took 141ms
+13:12 [Info] Loaded plugin OreBonus v2.0.30 by VooDoo, DezLife, FuzeEffect
+15:48 [Info] OreBonus was compiled successfully in 3375ms
+15:48 [Info] Unloaded plugin OreBonus v2.0.30 by VooDoo, DezLife, FuzeEffect
+15:48 [Warning] [OreBonus] -----------------------------------
+15:48 [Warning] [OreBonus]               OreBonus             
+15:48 [Warning] [OreBonus]           Author = DezLife         
+15:48 [Warning] [OreBonus]         vk.com/skyeyeplugins       
+15:48 [Warning] [OreBonus]          Version = 2.0.30       
+15:48 [Warning] [OreBonus] -----------------------------------
+15:48 [Warning] Calling 'OnServerInitialized' on 'OreBonus v2.0.30' took 160ms
+15:48 [Info] Loaded plugin OreBonus v2.0.30 by VooDoo, DezLife, FuzeEffect
+17:03 [Info] OreBonus was compiled successfully in 3516ms
+17:03 [Info] Unloaded plugin OreBonus v2.0.30 by VooDoo, DezLife, FuzeEffect
+17:03 [Warning] [OreBonus] -----------------------------------
+17:03 [Warning] [OreBonus]               OreBonus             
+17:03 [Warning] [OreBonus]           Author = DezLife         
+17:03 [Warning] [OreBonus]         vk.com/skyeyeplugins       
+17:03 [Warning] [OreBonus]          Version = 2.0.30       
+17:03 [Warning] [OreBonus] -----------------------------------
+17:03 [Warning] Calling 'OnServerInitialized' on 'OreBonus v2.0.30' took 143ms
+17:03 [Info] Loaded plugin OreBonus v2.0.30 by VooDoo, DezLife, FuzeEffect

@@ -1,0 +1,938 @@
+09:01 [Info] Loading Oxide Core v2.0.3867...
+09:01 [Info] Loading extensions...
+09:02 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+09:02 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+09:02 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+09:02 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+09:02 [Info] Loaded extension Rust v2.0.4315 by Oxide and Contributors
+09:02 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+09:02 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+09:02 [Info] Using Covalence provider for game 'Rust'
+09:02 [Info] Loading plugins...
+09:02 [Info] Loaded plugin Rust v2.0.4315 by Oxide and Contributors
+09:02 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+09:02 [Info] AdminRadar, ConvertStatus, FlyingCarpet, InfoPanel, OreBonus, PermissionsManager, RSM, RustStore, StackSizeController, Stalker, ToolsGatherManager, Vanish, Wasdik, Wasdik2, Wasdik3 and Welcomer were compiled successfully in 4369ms
+09:02 [Info] Loaded plugin Admin Radar v4.5.5 by nivex
+09:02 [Info] Loaded plugin Convert Status v1.0.8 by Orange
+09:02 [Info] Loaded plugin FlyingCarpet v1.1.1 by RFC1920
+09:02 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+09:02 [Info] Loaded plugin OreBonus v1.2.1 by r3dapple
+09:02 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+09:02 [Info] Loaded plugin RSM v1.0.2 by RustServerManager
+09:02 [Info] Loaded plugin RustStore v1.21.41 by Bombardir, Moscow.OVH
+09:02 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+09:02 [Info] Loaded plugin Stalker v1.0.4 by EcoSmile
+09:02 [Info] Loaded plugin Tools Gather Manager v1.0.6 by Wasdik
+09:02 [Info] Loaded plugin Vanish v0.7.4 by nivex
+09:02 [Info] [First plugin] A baby plugin is born!
+09:02 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+09:02 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+09:02 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+09:02 [Info] Loaded plugin Welcomer v1.4.1 by Tricky
+09:05 [Info] Loading Oxide Core v2.0.3867...
+09:05 [Info] Loading extensions...
+09:05 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+09:05 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+09:05 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+09:05 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+09:05 [Info] Loaded extension Rust v2.0.4315 by Oxide and Contributors
+09:05 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+09:05 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+09:05 [Info] Using Covalence provider for game 'Rust'
+09:05 [Info] Loading plugins...
+09:05 [Info] Loaded plugin Rust v2.0.4315 by Oxide and Contributors
+09:05 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+09:05 [Info] AdminRadar, ConvertStatus, FlyingCarpet, InfoPanel, OreBonus, PermissionsManager, RSM, RustStore, StackSizeController, Stalker, ToolsGatherManager, Vanish, Wasdik, Wasdik2, Wasdik3 and Welcomer were compiled successfully in 3956ms
+09:05 [Info] Loaded plugin Admin Radar v4.5.5 by nivex
+09:05 [Info] Loaded plugin Convert Status v1.0.8 by Orange
+09:05 [Info] Loaded plugin FlyingCarpet v1.1.1 by RFC1920
+09:05 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+09:05 [Info] Loaded plugin OreBonus v1.2.1 by r3dapple
+09:05 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+09:05 [Info] Loaded plugin RSM v1.0.2 by RustServerManager
+09:05 [Info] Loaded plugin RustStore v1.21.41 by Bombardir, Moscow.OVH
+09:05 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+09:05 [Info] Loaded plugin Stalker v1.0.4 by EcoSmile
+09:05 [Info] Loaded plugin Tools Gather Manager v1.0.6 by Wasdik
+09:05 [Info] Loaded plugin Vanish v0.7.4 by nivex
+09:05 [Info] [First plugin] A baby plugin is born!
+09:05 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+09:05 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+09:05 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+09:05 [Info] Loaded plugin Welcomer v1.4.1 by Tricky
+09:09 [Info] IP address from external API: 88.99.162.170
+09:09 [Info] [Admin Radar] Took 110.0002ms to cache 2140/20528 entities
+09:09 [Warning] Calling 'OnServerInitialized' on 'AdminRadar v4.5.5' took 154ms
+09:09 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 391ms
+09:09 [Info] [Stack Size Controller] Cleaning data file...
+09:10 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+09:10 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+09:18 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+09:18 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+09:22 [Error] Plugin filename Wasdik3 — копия.cs must match the main class Wasdik3 (should be Wasdik3.cs)
+09:22 [Error] Plugin filename Wasdik4.cs must match the main class Wasdik3 (should be Wasdik3.cs)
+09:25 [Error] Plugin filename Wasdik4.cs must match the main class Wasdik3 (should be Wasdik3.cs)
+09:25 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+09:25 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+09:26 [Info] Wasdik4 was compiled successfully in 2762ms
+09:26 [Warning] Wasdik4 has replaced the 'test6' command previously registered by Wasdik3
+09:26 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+09:26 [Info] Wasdik4 was compiled successfully in 376ms
+09:26 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+09:26 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+09:27 [Info] Wasdik4 was compiled successfully in 340ms
+09:27 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+09:27 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+09:29 [Info] Wasdik4 was compiled successfully in 2578ms
+09:29 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+09:29 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+09:30 [Info] Wasdik4 was compiled successfully in 2556ms
+09:30 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+09:30 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+09:30 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+09:30 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+09:37 [Warning] [Welcomer] ✔ Wasdik joined the server from Ukraine
+09:38 [Warning] [Convert Status] Wasdik converted into admin status
+09:38 [Info] [First plugin] False
+09:38 [Info] [First plugin] True
+09:39 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+09:39 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+09:44 [Error] Error while compiling: Wasdik4.cs(87,40): error CS1525: Unexpected symbol `info'
+09:44 [Error] Error while compiling: Wasdik4.cs(92,16): error CS0111: A member `Oxide.Plugins.Wasdik4.TestCommand(Oxide.Core.Libraries.Covalence.IPlayer, string, string[])' is already defined. Rename this member or use different parameter types
+09:45 [Info] Wasdik4 was compiled successfully in 504ms
+09:45 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+09:45 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+09:47 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+09:47 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+09:48 [Error] Error while compiling: Wasdik4.cs(98,37): error CS1061: Type `Oxide.Plugins.Wasdik4.PlayerInfo' does not contain a definition for `name' and no extension method `name' of type `Oxide.Plugins.Wasdik4.PlayerInfo' could be found. Are you missing an assembly reference?
+09:50 [Info] Wasdik4 was compiled successfully in 2368ms
+09:50 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+09:50 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+09:54 [Warning] [Welcomer] ✘ Wasdik left the server (Disconnected)
+09:54 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+09:54 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+10:00 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+10:00 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+10:10 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+10:10 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+10:17 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+10:17 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+10:26 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+10:26 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+10:31 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+10:31 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+10:42 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+10:42 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+10:50 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+10:50 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+10:58 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+10:58 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+10:58 [Warning] [Welcomer] ✔ Wasdik joined the server from Ukraine
+10:59 [Info] Wasdik4 was compiled successfully in 2470ms
+10:59 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+10:59 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+11:03 [Warning] [Welcomer] ✘ Wasdik left the server (Disconnected)
+11:05 [Warning] [Stalker] Ejection Radiation ended
+11:07 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+11:07 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+11:15 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+11:15 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+11:22 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+11:22 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+11:30 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+11:30 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+11:36 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+11:36 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+11:44 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+11:44 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+11:57 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+11:57 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+12:03 [Info] Unloaded plugin Stalker v1.0.4 by EcoSmile
+12:03 [Info] Unloaded plugin FlyingCarpet v1.1.1 by RFC1920
+12:03 [Info] Unloaded plugin OreBonus v1.2.1 by r3dapple
+12:03 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+12:03 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+12:14 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+12:14 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+12:31 [Warning] [Welcomer] ✔ Wasdik joined the server from Ukraine
+12:33 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+12:33 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+12:45 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+12:45 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+12:51 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+12:51 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+12:57 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+12:57 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+13:00 [Warning] [Convert Status] Wasdik converted out of admin status
+13:04 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+13:04 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+13:11 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+13:11 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+13:20 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+13:20 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+13:26 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+13:26 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+13:38 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+13:38 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+13:45 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+13:45 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+13:48 [Error] Plugin filename Wasdik — копия.cs must match the main class Wasdik (should be Wasdik.cs)
+13:48 [Error] Plugin filename Wasdik5.cs must match the main class Wasdik (should be Wasdik.cs)
+13:50 [Error] Error while compiling: Wasdik5.cs(19,30): error CS0246: The type or namespace name `Dictionary' could not be found. Are you missing `System.Collections.Generic' using directive?
+13:51 [Info] Wasdik5 was compiled successfully in 408ms
+13:51 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+13:52 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+13:52 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+13:53 [Info] Wasdik5 was compiled successfully in 2283ms
+13:53 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+13:53 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+13:55 [Info] Wasdik5 was compiled successfully in 2305ms
+13:55 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+13:55 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+13:56 [Info] Wasdik5 was compiled successfully in 2322ms
+13:56 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+13:56 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+13:58 [Info] [First plugin] Messages for First plugin:
+13:58 [Info] [First plugin] EpicThing: An epic thing has happened
+13:58 [Info] [First plugin] EpicTimes: An epic thing has happened: {0} time(s)
+13:59 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+13:59 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+13:59 [Info] Wasdik5 was compiled successfully in 2361ms
+13:59 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+13:59 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+13:59 [Info] [First plugin] Messages for First plugin:
+13:59 [Info] [First plugin] EpicThing: An epic thing has happened
+13:59 [Info] [First plugin] EpicTimes: An epic thing has happened: {0} time(s)
+13:59 [Info] [First plugin] Messages for First plugin:
+13:59 [Info] [First plugin] EpicThing: Это первая фраза
+13:59 [Info] [First plugin] EpicTimes: Эта фраза вывелась: {0} раз(а)
+14:01 [Info] Wasdik5 was compiled successfully in 2285ms
+14:01 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:01 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:02 [Info] [First plugin] An epic thing has happened
+14:03 [Info] [First plugin] Это первая фраза
+14:03 [Info] [First plugin] An epic thing has happened
+14:04 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+14:04 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+14:04 [Info] Wasdik5 was compiled successfully in 2371ms
+14:04 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:04 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:05 [Info] [First plugin] An epic thing has happened
+14:05 [Info] Wasdik5 was compiled successfully in 260ms
+14:05 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:05 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:05 [Info] [First plugin] Це перша фраза
+14:07 [Info] Wasdik5 was compiled successfully in 2562ms
+14:07 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:07 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:08 [Info] [First plugin] Ця фраза вивелася: 1 раз(iв)
+14:08 [Info] [First plugin] An epic thing has happened: 2 time(s)
+14:09 [Info] [First plugin] An epic thing has happened: 3 time(s)
+14:09 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+14:09 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+14:10 [Info] Wasdik5 was compiled successfully in 2312ms
+14:10 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:10 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:10 [Info] [First plugin] An epic thing has happened: 1 time(s)
+14:11 [Info] Wasdik5 was compiled successfully in 246ms
+14:11 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:11 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:11 [Info] [First plugin] An epic thing has happened: 1 time(s)
+14:12 [Info] Wasdik5 was compiled successfully in 2475ms
+14:12 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:12 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:12 [Info] [First plugin] An epic thing has happened: 1 time(s) 777 !!!
+14:13 [Info] [First plugin] An epic thing has happened: 2 time(s) 777 !!!
+14:14 [Info] Wasdik5 was compiled successfully in 2322ms
+14:14 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:14 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:14 [Info] [First plugin] en
+14:15 [Info] [First plugin] ru
+14:15 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+14:15 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+14:16 [Info] Wasdik5 was compiled successfully in 2373ms
+14:16 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:16 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:16 [Info] [First plugin] Merci bien! Votre langue est le français
+14:16 [Info] [First plugin] fr
+14:17 [Warning] [Welcomer] ✘ Wasdik left the server (Disconnected)
+14:18 [Warning] [Welcomer] ✔ Wasdik joined the server from Ukraine
+14:18 [Info] [First plugin] ru
+14:21 [Error] Error while compiling: Wasdik5.cs(95,3): error CS9010: Primary constructor body is not allowed
+14:23 [Error] Error while compiling: Wasdik5.cs(92,16): error CS0111: A member `Oxide.Plugins.Wasdik5.TestUpdateCommand(Oxide.Core.Libraries.Covalence.IPlayer)' is already defined. Rename this member or use different parameter types
+14:23 [Info] Wasdik5 was compiled successfully in 527ms
+14:23 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:23 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:24 [Info] [First plugin] Supported languages for First plugin:
+14:24 [Info] [First plugin] en
+14:24 [Info] [First plugin] ru
+14:24 [Info] [First plugin] uk
+14:24 [Info] [First plugin] Supported languages for First plugin:
+14:24 [Info] [First plugin] en
+14:24 [Info] [First plugin] ru
+14:26 [Info] Wasdik5 was compiled successfully in 2221ms
+14:26 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:26 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:27 [Info] [First plugin] en
+14:27 [Info] [First plugin] fr
+14:28 [Info] Wasdik5 was compiled successfully in 2414ms
+14:28 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+14:28 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:28 [Info] [First plugin] en
+14:29 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+14:29 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+14:36 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+14:36 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+14:42 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+14:42 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+14:49 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+14:49 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+14:54 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+14:54 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+14:58 [Error] Plugin filename Wasdik5 — копия.cs must match the main class Wasdik5 (should be Wasdik5.cs)
+14:58 [Error] Plugin filename Wasdik6.cs must match the main class Wasdik5 (should be Wasdik5.cs)
+15:00 [Info] Wasdik6 was compiled successfully in 2152ms
+15:00 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+15:00 [Warning] [Convert Status] Wasdik converted into admin status
+15:00 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+15:00 [Info] [First plugin] OnActiveItemChange works!
+15:00 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+15:00 [Info] [First plugin] OnActiveItemChanged works!
+15:01 [Info] [First plugin] OnActiveItemChange works!
+15:01 [Info] [First plugin] OnActiveItemChanged works!
+15:03 [Info] [First plugin] OnActiveItemChange works!
+15:03 [Info] [First plugin] OnActiveItemChanged works!
+15:03 [Info] Wasdik6 was compiled successfully in 2355ms
+15:03 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+15:03 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+15:04 [Info] [First plugin] OnActiveItemChange works! player: Wasdik[58490/76561198309441475]; itemId: 446420
+15:04 [Info] [First plugin] OnActiveItemChanged works!
+15:05 [Info] Wasdik6 was compiled successfully in 2342ms
+15:05 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+15:05 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+15:05 [Info] [First plugin] OnActiveItemChange works! player: Wasdik[58490/76561198309441475]; itemId: 446422
+15:05 [Info] [First plugin] OnActiveItemChanged works! player: Wasdik[58490/76561198309441475]; itemId: 446422; oldActiveItem: Item.torchx1.446422
+15:06 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+15:06 [Info] [First plugin] OnActiveItemChange works! player: Wasdik[58490/76561198309441475]; itemId: 446420
+15:06 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+15:06 [Info] [First plugin] OnActiveItemChanged works! player: Wasdik[58490/76561198309441475]; itemId: 446420; oldActiveItem: Item.rockx1.446420
+15:08 [Info] [First plugin] OnActiveItemChange works! player: Wasdik[58490/76561198309441475]; itemId: 0
+15:08 [Error] Failed to call hook 'OnActiveItemChanged' on plugin 'Wasdik6 v0.1.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Wasdik6.OnActiveItemChanged (BasePlayer player, System.UInt32 itemId, Item oldActiveItem) [0x0002f] in <3b103b7a8b784f3482a599ad9b441843>:0 
+  at Oxide.Plugins.Wasdik6.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00249] in <3b103b7a8b784f3482a599ad9b441843>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:16 [Error] Error while compiling: Wasdik6.cs(26,8): error CS0023: The `!' operator cannot be applied to operand of type `Item'
+15:16 [Error] Error while compiling: Wasdik6.cs(28,3): error CS1525: Unexpected symbol `else', expecting `;' or `}'
+15:17 [Error] Error while compiling: Wasdik6.cs(28,3): error CS1525: Unexpected symbol `else', expecting `;' or `}'
+15:17 [Error] Error while compiling: Wasdik6.cs(27,140): error CS1525: Unexpected symbol `)', expecting `;' or `}'
+15:17 [Error] Error while compiling: Wasdik6.cs(28,3): error CS1525: Unexpected symbol `else'
+15:19 [Info] Wasdik6 was compiled successfully in 2418ms
+15:19 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+15:19 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+15:19 [Info] Wasdik6 was compiled successfully in 367ms
+15:19 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+15:19 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+15:20 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+15:20 [Info] [First plugin] OnActiveItemChange works! player: Wasdik[58490/76561198309441475]; itemId: 446420
+15:20 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+15:20 [Info] [First plugin] OnActiveItemChanged works! player: Wasdik[58490/76561198309441475]; itemId: 446420; oldActiveItem: Item.rockx1.446420
+15:20 [Info] [First plugin] OnActiveItemChange works! player: Wasdik[58490/76561198309441475]; itemId: 0
+15:20 [Info] [First plugin] OnActiveItemChanged works! player: Wasdik[58490/76561198309441475]; itemId: 0
+15:20 [Info] [First plugin] OnActiveItemChange works! player: 697612[475770/697612]; itemId: 475777
+15:20 [Info] [First plugin] OnActiveItemChanged works! player: 697612[475770/697612]; itemId: 475777; oldActiveItem: Item.geiger.counterx1.475777
+15:21 [Info] [First plugin] OnActiveItemChange works! player: Wasdik[58490/76561198309441475]; itemId: 446420
+15:21 [Info] [First plugin] OnActiveItemChanged works! player: Wasdik[58490/76561198309441475]; itemId: 446420; oldActiveItem: Item.rockx1.446420
+15:21 [Info] Wasdik6 was compiled successfully in 2484ms
+15:21 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+15:21 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+15:21 [Info] [First plugin] OnActiveItemChange works! player: Wasdik[58490/76561198309441475]; itemId: 446422
+15:21 [Info] [First plugin] OnActiveItemChanged works! player: Wasdik[58490/76561198309441475]; itemId: 446422; oldActiveItem: Item.torchx1.446422
+15:21 [Info] [First plugin] OnActiveItemChange works! player: Wasdik[58490/76561198309441475]; itemId: 446420
+15:21 [Info] [First plugin] OnActiveItemChanged works! player: Wasdik[58490/76561198309441475]; itemId: 446420; oldActiveItem: Item.rockx1.446420
+15:24 [Info] [First plugin] OnActiveItemChange works! player: 5410149[476769/5410149]; itemId: 476778
+15:24 [Info] [First plugin] OnActiveItemChanged works! player: 5410149[476769/5410149]; itemId: 476778; oldActiveItem: Item.flashlight.heldx1.476778
+15:26 [Warning] [Welcomer] ✘ Wasdik left the server (Disconnected)
+15:34 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+15:34 [Info] [First plugin] OnActiveItemChange works! player: 1598723[479169/1598723]; itemId: 479176
+15:34 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+15:34 [Info] [First plugin] OnActiveItemChanged works! player: 1598723[479169/1598723]; itemId: 479176; oldActiveItem: Item.geiger.counterx1.479176
+15:36 [Info] [First plugin] OnActiveItemChange works! player: 5179063[479816/5179063]; itemId: 479823
+15:36 [Info] [First plugin] OnActiveItemChanged works! player: 5179063[479816/5179063]; itemId: 479823; oldActiveItem: Item.geiger.counterx1.479823
+15:42 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+15:42 [Info] [First plugin] OnActiveItemChange works! player: 3404914[481323/3404914]; itemId: 481330
+15:42 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+15:42 [Info] [First plugin] OnActiveItemChanged works! player: 3404914[481323/3404914]; itemId: 481330; oldActiveItem: Item.geiger.counterx1.481330
+15:43 [Info] [First plugin] OnActiveItemChange works! player: 4666911[481511/4666911]; itemId: 481518
+15:43 [Info] [First plugin] OnActiveItemChanged works! player: 4666911[481511/4666911]; itemId: 481518; oldActiveItem: Item.geiger.counterx1.481518
+15:43 [Info] [First plugin] OnActiveItemChange works! player: 1563576[481525/1563576]; itemId: 481532
+15:43 [Info] [First plugin] OnActiveItemChanged works! player: 1563576[481525/1563576]; itemId: 481532; oldActiveItem: Item.geiger.counterx1.481532
+15:44 [Info] [First plugin] OnActiveItemChange works! player: 5128337[481724/5128337]; itemId: 481731
+15:44 [Info] [First plugin] OnActiveItemChanged works! player: 5128337[481724/5128337]; itemId: 481731; oldActiveItem: Item.geiger.counterx1.481731
+15:47 [Info] [First plugin] OnActiveItemChange works! player: 5596513[482300/5596513]; itemId: 482307
+15:47 [Info] [First plugin] OnActiveItemChanged works! player: 5596513[482300/5596513]; itemId: 482307; oldActiveItem: Item.geiger.counterx1.482307
+15:49 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 9462465[482647/9462465]; itemId: 482651
+15:49 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 9462465[482647/9462465]; itemId: 482651; oldActiveItem: Item.shotgun.spas12x1.482651
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 1265725[482664/1265725]; itemId: 482668
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 1265725[482664/1265725]; itemId: 482668; oldActiveItem: Item.smg.mp5x1.482668
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 4840725[482681/4840725]; itemId: 482685
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 4840725[482681/4840725]; itemId: 482685; oldActiveItem: Item.smg.mp5x1.482685
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 6655326[482698/6655326]; itemId: 482702
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 6655326[482698/6655326]; itemId: 482702; oldActiveItem: Item.rifle.lr300x1.482702
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 6390497[482712/6390497]; itemId: 482716
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 6390497[482712/6390497]; itemId: 482716; oldActiveItem: Item.pistol.m92x1.482716
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 353865[482726/353865]; itemId: 482730
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 353865[482726/353865]; itemId: 482730; oldActiveItem: Item.shotgun.spas12x1.482730
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 9135623[482743/9135623]; itemId: 482747
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 9135623[482743/9135623]; itemId: 482747; oldActiveItem: Item.shotgun.spas12x1.482747
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 2485867[482760/2485867]; itemId: 482764
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 2485867[482760/2485867]; itemId: 482764; oldActiveItem: Item.pistol.m92x1.482764
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 4931110[482774/4931110]; itemId: 482778
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 4931110[482774/4931110]; itemId: 482778; oldActiveItem: Item.rifle.lr300x1.482778
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 6032144[482788/6032144]; itemId: 482792
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 6032144[482788/6032144]; itemId: 482792; oldActiveItem: Item.rifle.lr300x1.482792
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 813448[482802/813448]; itemId: 482806
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 813448[482802/813448]; itemId: 482806; oldActiveItem: Item.rifle.lr300x1.482806
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 4665349[482816/4665349]; itemId: 482820
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 4665349[482816/4665349]; itemId: 482820; oldActiveItem: Item.rifle.lr300x1.482820
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 4731374[482830/4731374]; itemId: 482834
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 4731374[482830/4731374]; itemId: 482834; oldActiveItem: Item.rifle.lr300x1.482834
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 3756318[482844/3756318]; itemId: 482848
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 3756318[482844/3756318]; itemId: 482848; oldActiveItem: Item.pistol.m92x1.482848
+15:49 [Info] [First plugin] OnActiveItemChange works! player: 9414236[482858/9414236]; itemId: 482862
+15:49 [Info] [First plugin] OnActiveItemChanged works! player: 9414236[482858/9414236]; itemId: 482862; oldActiveItem: Item.shotgun.spas12x1.482862
+15:58 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+15:58 [Info] [First plugin] OnActiveItemChange works! player: 4809072[485045/4809072]; itemId: 485052
+15:58 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+15:58 [Info] [First plugin] OnActiveItemChanged works! player: 4809072[485045/4809072]; itemId: 485052; oldActiveItem: Item.geiger.counterx1.485052
+16:00 [Info] [First plugin] OnActiveItemChange works! player: 4955901[485473/4955901]; itemId: 485480
+16:00 [Info] [First plugin] OnActiveItemChanged works! player: 4955901[485473/4955901]; itemId: 485480; oldActiveItem: Item.geiger.counterx1.485480
+16:04 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+16:04 [Info] [First plugin] OnActiveItemChange works! player: 4199694[486164/4199694]; itemId: 486168
+16:04 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+16:04 [Info] [First plugin] OnActiveItemChanged works! player: 4199694[486164/4199694]; itemId: 486168; oldActiveItem: Item.lmg.m249x1.486168
+16:04 [Info] [First plugin] OnActiveItemChange works! player: 7884636[486172/7884636]; itemId: 486176
+16:04 [Info] [First plugin] OnActiveItemChanged works! player: 7884636[486172/7884636]; itemId: 486176; oldActiveItem: Item.lmg.m249x1.486176
+16:04 [Info] [First plugin] OnActiveItemChange works! player: 7953351[486180/7953351]; itemId: 486184
+16:04 [Info] [First plugin] OnActiveItemChanged works! player: 7953351[486180/7953351]; itemId: 486184; oldActiveItem: Item.lmg.m249x1.486184
+16:04 [Info] [First plugin] OnActiveItemChange works! player: 9995218[486188/9995218]; itemId: 486192
+16:04 [Info] [First plugin] OnActiveItemChanged works! player: 9995218[486188/9995218]; itemId: 486192; oldActiveItem: Item.lmg.m249x1.486192
+16:04 [Info] [First plugin] OnActiveItemChange works! player: 4525843[486196/4525843]; itemId: 486200
+16:04 [Info] [First plugin] OnActiveItemChanged works! player: 4525843[486196/4525843]; itemId: 486200; oldActiveItem: Item.lmg.m249x1.486200
+16:05 [Info] [First plugin] OnActiveItemChange works! player: 4576889[486697/4576889]; itemId: 486704
+16:05 [Info] [First plugin] OnActiveItemChanged works! player: 4576889[486697/4576889]; itemId: 486704; oldActiveItem: Item.geiger.counterx1.486704
+16:10 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+16:10 [Info] [First plugin] OnActiveItemChange works! player: 4370852[487692/4370852]; itemId: 487699
+16:10 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+16:10 [Info] [First plugin] OnActiveItemChanged works! player: 4370852[487692/4370852]; itemId: 487699; oldActiveItem: Item.geiger.counterx1.487699
+16:13 [Info] [First plugin] OnActiveItemChange works! player: 9240497[488195/9240497]; itemId: 488202
+16:13 [Info] [First plugin] OnActiveItemChanged works! player: 9240497[488195/9240497]; itemId: 488202; oldActiveItem: Item.geiger.counterx1.488202
+16:14 [Info] [First plugin] OnActiveItemChange works! player: 8983702[488475/8983702]; itemId: 488482
+16:14 [Info] [First plugin] OnActiveItemChanged works! player: 8983702[488475/8983702]; itemId: 488482; oldActiveItem: Item.geiger.counterx1.488482
+16:18 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+16:18 [Info] [First plugin] OnActiveItemChange works! player: 2188148[489226/2188148]; itemId: 489233
+16:18 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+16:18 [Info] [First plugin] OnActiveItemChanged works! player: 2188148[489226/2188148]; itemId: 489233; oldActiveItem: Item.geiger.counterx1.489233
+16:19 [Info] [First plugin] OnActiveItemChange works! player: 1493883[489484/1493883]; itemId: 489491
+16:19 [Info] [First plugin] OnActiveItemChanged works! player: 1493883[489484/1493883]; itemId: 489491; oldActiveItem: Item.geiger.counterx1.489491
+16:23 [Info] [First plugin] OnActiveItemChange works! player: 2973700[490271/2973700]; itemId: 490280
+16:23 [Info] [First plugin] OnActiveItemChanged works! player: 2973700[490271/2973700]; itemId: 490280; oldActiveItem: Item.flashlight.heldx1.490280
+16:32 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+16:32 [Info] [First plugin] OnActiveItemChange works! player: 8768652[492108/8768652]; itemId: 492115
+16:32 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+16:32 [Info] [First plugin] OnActiveItemChanged works! player: 8768652[492108/8768652]; itemId: 492115; oldActiveItem: Item.geiger.counterx1.492115
+16:32 [Info] [First plugin] OnActiveItemChange works! player: 6821994[492122/6821994]; itemId: 492129
+16:32 [Info] [First plugin] OnActiveItemChanged works! player: 6821994[492122/6821994]; itemId: 492129; oldActiveItem: Item.geiger.counterx1.492129
+16:35 [Info] [First plugin] OnActiveItemChange works! player: 237220[492588/237220]; itemId: 492595
+16:35 [Info] [First plugin] OnActiveItemChanged works! player: 237220[492588/237220]; itemId: 492595; oldActiveItem: Item.geiger.counterx1.492595
+16:40 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+16:40 [Info] [First plugin] OnActiveItemChange works! player: 3084115[493626/3084115]; itemId: 493633
+16:40 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+16:40 [Info] [First plugin] OnActiveItemChanged works! player: 3084115[493626/3084115]; itemId: 493633; oldActiveItem: Item.geiger.counterx1.493633
+16:40 [Info] [First plugin] OnActiveItemChange works! player: 5349719[493640/5349719]; itemId: 493647
+16:40 [Info] [First plugin] OnActiveItemChanged works! player: 5349719[493640/5349719]; itemId: 493647; oldActiveItem: Item.geiger.counterx1.493647
+16:40 [Info] [First plugin] OnActiveItemChange works! player: 9434939[493826/9434939]; itemId: 493833
+16:40 [Info] [First plugin] OnActiveItemChanged works! player: 9434939[493826/9434939]; itemId: 493833; oldActiveItem: Item.geiger.counterx1.493833
+16:42 [Info] [First plugin] OnActiveItemChange works! player: 8426884[494032/8426884]; itemId: 494039
+16:42 [Info] [First plugin] OnActiveItemChanged works! player: 8426884[494032/8426884]; itemId: 494039; oldActiveItem: Item.geiger.counterx1.494039
+16:42 [Info] [First plugin] OnActiveItemChange works! player: 1232006[494046/1232006]; itemId: 494053
+16:42 [Info] [First plugin] OnActiveItemChanged works! player: 1232006[494046/1232006]; itemId: 494053; oldActiveItem: Item.geiger.counterx1.494053
+16:43 [Info] [First plugin] OnActiveItemChange works! player: 1651589[494270/1651589]; itemId: 494277
+16:43 [Info] [First plugin] OnActiveItemChanged works! player: 1651589[494270/1651589]; itemId: 494277; oldActiveItem: Item.geiger.counterx1.494277
+16:45 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+16:45 [Info] [First plugin] OnActiveItemChange works! player: 8497802[494714/8497802]; itemId: 494721
+16:45 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+16:45 [Info] [First plugin] OnActiveItemChanged works! player: 8497802[494714/8497802]; itemId: 494721; oldActiveItem: Item.geiger.counterx1.494721
+16:45 [Info] [First plugin] OnActiveItemChange works! player: 4154153[494728/4154153]; itemId: 494735
+16:45 [Info] [First plugin] OnActiveItemChanged works! player: 4154153[494728/4154153]; itemId: 494735; oldActiveItem: Item.geiger.counterx1.494735
+16:48 [Info] [First plugin] OnActiveItemChange works! player: 9626951[495535/9626951]; itemId: 495542
+16:48 [Info] [First plugin] OnActiveItemChanged works! player: 9626951[495535/9626951]; itemId: 495542; oldActiveItem: Item.geiger.counterx1.495542
+17:07 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+17:07 [Info] [First plugin] OnActiveItemChange works! player: 3933461[499163/3933461]; itemId: 499170
+17:07 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+17:07 [Info] [First plugin] OnActiveItemChanged works! player: 3933461[499163/3933461]; itemId: 499170; oldActiveItem: Item.geiger.counterx1.499170
+17:09 [Info] [First plugin] OnActiveItemChange works! player: 5847162[499631/5847162]; itemId: 499638
+17:09 [Info] [First plugin] OnActiveItemChanged works! player: 5847162[499631/5847162]; itemId: 499638; oldActiveItem: Item.geiger.counterx1.499638
+17:13 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+17:13 [Info] [First plugin] OnActiveItemChange works! player: 9222328[500411/9222328]; itemId: 500418
+17:13 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+17:13 [Info] [First plugin] OnActiveItemChanged works! player: 9222328[500411/9222328]; itemId: 500418; oldActiveItem: Item.geiger.counterx1.500418
+17:16 [Info] [First plugin] OnActiveItemChange works! player: 4735095[501195/4735095]; itemId: 501202
+17:16 [Info] [First plugin] OnActiveItemChanged works! player: 4735095[501195/4735095]; itemId: 501202; oldActiveItem: Item.geiger.counterx1.501202
+17:21 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+17:21 [Info] [First plugin] OnActiveItemChange works! player: 6314903[502498/6314903]; itemId: 502505
+17:21 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+17:21 [Info] [First plugin] OnActiveItemChanged works! player: 6314903[502498/6314903]; itemId: 502505; oldActiveItem: Item.geiger.counterx1.502505
+17:22 [Info] [First plugin] OnActiveItemChange works! player: 7602980[502729/7602980]; itemId: 502736
+17:22 [Info] [First plugin] OnActiveItemChanged works! player: 7602980[502729/7602980]; itemId: 502736; oldActiveItem: Item.geiger.counterx1.502736
+17:36 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+17:36 [Info] [First plugin] OnActiveItemChange works! player: 6720453[505764/6720453]; itemId: 505771
+17:36 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+17:36 [Info] [First plugin] OnActiveItemChanged works! player: 6720453[505764/6720453]; itemId: 505771; oldActiveItem: Item.geiger.counterx1.505771
+17:37 [Info] [First plugin] OnActiveItemChange works! player: 2433472[505956/2433472]; itemId: 505963
+17:37 [Info] [First plugin] OnActiveItemChanged works! player: 2433472[505956/2433472]; itemId: 505963; oldActiveItem: Item.geiger.counterx1.505963
+17:41 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+17:41 [Info] [First plugin] OnActiveItemChange works! player: 8589526[506716/8589526]; itemId: 506723
+17:41 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+17:41 [Info] [First plugin] OnActiveItemChanged works! player: 8589526[506716/8589526]; itemId: 506723; oldActiveItem: Item.geiger.counterx1.506723
+17:42 [Info] [First plugin] OnActiveItemChange works! player: 1555114[506943/1555114]; itemId: 506950
+17:42 [Info] [First plugin] OnActiveItemChanged works! player: 1555114[506943/1555114]; itemId: 506950; oldActiveItem: Item.geiger.counterx1.506950
+17:43 [Info] [First plugin] OnActiveItemChange works! player: 1174291[507212/1174291]; itemId: 507219
+17:43 [Info] [First plugin] OnActiveItemChanged works! player: 1174291[507212/1174291]; itemId: 507219; oldActiveItem: Item.geiger.counterx1.507219
+17:44 [Info] [First plugin] OnActiveItemChange works! player: 1023166[507488/1023166]; itemId: 507495
+17:44 [Info] [First plugin] OnActiveItemChanged works! player: 1023166[507488/1023166]; itemId: 507495; oldActiveItem: Item.geiger.counterx1.507495
+17:49 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+17:49 [Info] [First plugin] OnActiveItemChange works! player: 1309371[508620/1309371]; itemId: 508627
+17:49 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+17:49 [Info] [First plugin] OnActiveItemChanged works! player: 1309371[508620/1309371]; itemId: 508627; oldActiveItem: Item.geiger.counterx1.508627
+17:50 [Info] [First plugin] OnActiveItemChange works! player: 2863913[508847/2863913]; itemId: 508854
+17:50 [Info] [First plugin] OnActiveItemChanged works! player: 2863913[508847/2863913]; itemId: 508854; oldActiveItem: Item.geiger.counterx1.508854
+17:51 [Info] [First plugin] OnActiveItemChange works! player: 3952952[509113/3952952]; itemId: 509120
+17:51 [Info] [First plugin] OnActiveItemChanged works! player: 3952952[509113/3952952]; itemId: 509120; oldActiveItem: Item.geiger.counterx1.509120
+17:51 [Info] [First plugin] OnActiveItemChange works! player: 9459113[509127/9459113]; itemId: 509134
+17:51 [Info] [First plugin] OnActiveItemChanged works! player: 9459113[509127/9459113]; itemId: 509134; oldActiveItem: Item.geiger.counterx1.509134
+17:51 [Info] [First plugin] OnActiveItemChange works! player: 6857278[509151/6857278]; itemId: 509158
+17:51 [Info] [First plugin] OnActiveItemChanged works! player: 6857278[509151/6857278]; itemId: 509158; oldActiveItem: Item.geiger.counterx1.509158
+17:59 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+17:59 [Info] [First plugin] OnActiveItemChange works! player: 3856212[510681/3856212]; itemId: 510688
+17:59 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+17:59 [Info] [First plugin] OnActiveItemChanged works! player: 3856212[510681/3856212]; itemId: 510688; oldActiveItem: Item.geiger.counterx1.510688
+18:03 [Info] [First plugin] OnActiveItemChange works! player: 8379429[511542/8379429]; itemId: 511549
+18:03 [Info] [First plugin] OnActiveItemChanged works! player: 8379429[511542/8379429]; itemId: 511549; oldActiveItem: Item.geiger.counterx1.511549
+18:11 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+18:11 [Info] [First plugin] OnActiveItemChange works! player: 6973166[513207/6973166]; itemId: 513214
+18:11 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+18:11 [Info] [First plugin] OnActiveItemChanged works! player: 6973166[513207/6973166]; itemId: 513214; oldActiveItem: Item.geiger.counterx1.513214
+18:15 [Info] [First plugin] OnActiveItemChange works! player: 4043269[513950/4043269]; itemId: 513957
+18:15 [Info] [First plugin] OnActiveItemChanged works! player: 4043269[513950/4043269]; itemId: 513957; oldActiveItem: Item.geiger.counterx1.513957
+18:20 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+18:20 [Info] [First plugin] OnActiveItemChange works! player: 423170[515263/423170]; itemId: 515270
+18:20 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+18:20 [Info] [First plugin] OnActiveItemChanged works! player: 423170[515263/423170]; itemId: 515270; oldActiveItem: Item.geiger.counterx1.515270
+18:21 [Info] [First plugin] OnActiveItemChange works! player: 434842[515610/434842]; itemId: 515617
+18:21 [Info] [First plugin] OnActiveItemChanged works! player: 434842[515610/434842]; itemId: 515617; oldActiveItem: Item.geiger.counterx1.515617
+18:21 [Info] [First plugin] OnActiveItemChange works! player: 5678560[515624/5678560]; itemId: 515631
+18:21 [Info] [First plugin] OnActiveItemChanged works! player: 5678560[515624/5678560]; itemId: 515631; oldActiveItem: Item.geiger.counterx1.515631
+18:24 [Info] [First plugin] OnActiveItemChange works! player: 5483789[516251/5483789]; itemId: 516255
+18:24 [Info] [First plugin] OnActiveItemChanged works! player: 5483789[516251/5483789]; itemId: 516255; oldActiveItem: Item.lmg.m249x1.516255
+18:24 [Info] [First plugin] OnActiveItemChange works! player: 162007[516259/162007]; itemId: 516263
+18:24 [Info] [First plugin] OnActiveItemChanged works! player: 162007[516259/162007]; itemId: 516263; oldActiveItem: Item.lmg.m249x1.516263
+18:24 [Info] [First plugin] OnActiveItemChange works! player: 5201963[516267/5201963]; itemId: 516271
+18:24 [Info] [First plugin] OnActiveItemChanged works! player: 5201963[516267/5201963]; itemId: 516271; oldActiveItem: Item.lmg.m249x1.516271
+18:24 [Info] [First plugin] OnActiveItemChange works! player: 4179882[516275/4179882]; itemId: 516279
+18:24 [Info] [First plugin] OnActiveItemChanged works! player: 4179882[516275/4179882]; itemId: 516279; oldActiveItem: Item.lmg.m249x1.516279
+18:24 [Info] [First plugin] OnActiveItemChange works! player: 6379040[516283/6379040]; itemId: 516287
+18:24 [Info] [First plugin] OnActiveItemChanged works! player: 6379040[516283/6379040]; itemId: 516287; oldActiveItem: Item.lmg.m249x1.516287
+18:28 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+18:28 [Info] [First plugin] OnActiveItemChange works! player: 4026119[517226/4026119]; itemId: 517235
+18:28 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+18:28 [Info] [First plugin] OnActiveItemChanged works! player: 4026119[517226/4026119]; itemId: 517235; oldActiveItem: Item.flashlight.heldx1.517235
+18:39 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+18:39 [Info] [First plugin] OnActiveItemChange works! player: 9358043[520169/9358043]; itemId: 520176
+18:39 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+18:39 [Info] [First plugin] OnActiveItemChanged works! player: 9358043[520169/9358043]; itemId: 520176; oldActiveItem: Item.geiger.counterx1.520176
+18:43 [Info] [First plugin] OnActiveItemChange works! player: 3108938[520996/3108938]; itemId: 521003
+18:43 [Info] [First plugin] OnActiveItemChanged works! player: 3108938[520996/3108938]; itemId: 521003; oldActiveItem: Item.geiger.counterx1.521003
+18:45 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+18:45 [Info] [First plugin] OnActiveItemChange works! player: 2153444[521425/2153444]; itemId: 521432
+18:45 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+18:45 [Info] [First plugin] OnActiveItemChanged works! player: 2153444[521425/2153444]; itemId: 521432; oldActiveItem: Item.geiger.counterx1.521432
+18:47 [Info] [First plugin] OnActiveItemChange works! player: 8006201[521849/8006201]; itemId: 521856
+18:47 [Info] [First plugin] OnActiveItemChanged works! player: 8006201[521849/8006201]; itemId: 521856; oldActiveItem: Item.geiger.counterx1.521856
+18:48 [Info] [First plugin] OnActiveItemChange works! player: 3976534[522042/3976534]; itemId: 522049
+18:48 [Info] [First plugin] OnActiveItemChanged works! player: 3976534[522042/3976534]; itemId: 522049; oldActiveItem: Item.geiger.counterx1.522049
+18:48 [Info] [First plugin] OnActiveItemChange works! player: 7549882[522056/7549882]; itemId: 522063
+18:48 [Info] [First plugin] OnActiveItemChanged works! player: 7549882[522056/7549882]; itemId: 522063; oldActiveItem: Item.geiger.counterx1.522063
+18:54 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+18:54 [Info] [First plugin] OnActiveItemChange works! player: 9593000[523321/9593000]; itemId: 523328
+18:54 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+18:54 [Info] [First plugin] OnActiveItemChanged works! player: 9593000[523321/9593000]; itemId: 523328; oldActiveItem: Item.geiger.counterx1.523328
+18:56 [Info] [First plugin] OnActiveItemChange works! player: 774646[523731/774646]; itemId: 523738
+18:56 [Info] [First plugin] OnActiveItemChanged works! player: 774646[523731/774646]; itemId: 523738; oldActiveItem: Item.geiger.counterx1.523738
+18:57 [Info] [First plugin] OnActiveItemChange works! player: 7188550[523933/7188550]; itemId: 523940
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: 7188550[523933/7188550]; itemId: 523940; oldActiveItem: Item.geiger.counterx1.523940
+18:57 [Warning] [Welcomer] ✔ ttrrp joined the server from Russia
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 523965
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 523965; oldActiveItem: Item.rockx1.523965
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 523965
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 523965; oldActiveItem: Item.rockx1.523965
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 523965
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 523965; oldActiveItem: Item.rockx1.523965
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 523965
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 523965; oldActiveItem: Item.rockx1.523965
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 523965
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 523965; oldActiveItem: Item.rockx1.523965
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 523965
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 523965; oldActiveItem: Item.rockx1.523965
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 523965
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 523965; oldActiveItem: Item.rockx1.523965
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 523965
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 523965; oldActiveItem: Item.rockx1.523965
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 523965
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 523965; oldActiveItem: Item.rockx1.523965
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 523965
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 523965; oldActiveItem: Item.rockx1.523965
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 0
+18:57 [Info] [First plugin] OnActiveItemChange works! player: ttrrp[523961/76561198146416032]; itemId: 523965
+18:57 [Info] [First plugin] OnActiveItemChanged works! player: ttrrp[523961/76561198146416032]; itemId: 523965; oldActiveItem: Item.rockx1.523965
+18:58 [Warning] [Welcomer] ✘ ttrrp left the server (Disconnected)
+18:58 [Info] [First plugin] OnActiveItemChange works! player: 7071566[524292/7071566]; itemId: 524296
+18:58 [Info] [First plugin] OnActiveItemChanged works! player: 7071566[524292/7071566]; itemId: 524296; oldActiveItem: Item.smg.mp5x1.524296
+18:58 [Info] [First plugin] OnActiveItemChange works! player: 1527204[524309/1527204]; itemId: 524313
+18:58 [Info] [First plugin] OnActiveItemChanged works! player: 1527204[524309/1527204]; itemId: 524313; oldActiveItem: Item.pistol.m92x1.524313
+18:58 [Info] [First plugin] OnActiveItemChange works! player: 7142980[524323/7142980]; itemId: 524327
+18:58 [Info] [First plugin] OnActiveItemChanged works! player: 7142980[524323/7142980]; itemId: 524327; oldActiveItem: Item.shotgun.spas12x1.524327
+18:58 [Info] [First plugin] OnActiveItemChange works! player: 5347473[524340/5347473]; itemId: 524344
+18:58 [Info] [First plugin] OnActiveItemChanged works! player: 5347473[524340/5347473]; itemId: 524344; oldActiveItem: Item.shotgun.spas12x1.524344
+18:58 [Info] [First plugin] OnActiveItemChange works! player: 4591554[524357/4591554]; itemId: 524361
+18:58 [Info] [First plugin] OnActiveItemChanged works! player: 4591554[524357/4591554]; itemId: 524361; oldActiveItem: Item.rifle.lr300x1.524361
+18:58 [Info] [First plugin] OnActiveItemChange works! player: 748518[524371/748518]; itemId: 524375
+18:58 [Info] [First plugin] OnActiveItemChanged works! player: 748518[524371/748518]; itemId: 524375; oldActiveItem: Item.pistol.m92x1.524375
+18:58 [Info] [First plugin] OnActiveItemChange works! player: 4937776[524385/4937776]; itemId: 524389
+18:58 [Info] [First plugin] OnActiveItemChanged works! player: 4937776[524385/4937776]; itemId: 524389; oldActiveItem: Item.rifle.lr300x1.524389
+18:58 [Info] [First plugin] OnActiveItemChange works! player: 8252559[524399/8252559]; itemId: 524403
+18:58 [Info] [First plugin] OnActiveItemChanged works! player: 8252559[524399/8252559]; itemId: 524403; oldActiveItem: Item.rifle.lr300x1.524403
+18:58 [Info] [First plugin] OnActiveItemChange works! player: 340626[524413/340626]; itemId: 524417
+18:58 [Info] [First plugin] OnActiveItemChanged works! player: 340626[524413/340626]; itemId: 524417; oldActiveItem: Item.rifle.lr300x1.524417
+18:58 [Info] [First plugin] OnActiveItemChange works! player: 3456280[524427/3456280]; itemId: 524431
+18:58 [Info] [First plugin] OnActiveItemChanged works! player: 3456280[524427/3456280]; itemId: 524431; oldActiveItem: Item.smg.mp5x1.524431
+18:58 [Info] [First plugin] OnActiveItemChange works! player: 8280482[524444/8280482]; itemId: 524448
+18:58 [Info] [First plugin] OnActiveItemChanged works! player: 8280482[524444/8280482]; itemId: 524448; oldActiveItem: Item.smg.mp5x1.524448
+18:58 [Info] [First plugin] OnActiveItemChange works! player: 6167765[524461/6167765]; itemId: 524465
+18:58 [Info] [First plugin] OnActiveItemChanged works! player: 6167765[524461/6167765]; itemId: 524465; oldActiveItem: Item.rifle.lr300x1.524465
+18:58 [Info] [First plugin] OnActiveItemChange works! player: 1980713[524475/1980713]; itemId: 524479
+18:58 [Info] [First plugin] OnActiveItemChanged works! player: 1980713[524475/1980713]; itemId: 524479; oldActiveItem: Item.rifle.lr300x1.524479
+19:09 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+19:09 [Info] [First plugin] OnActiveItemChange works! player: 7513238[527034/7513238]; itemId: 527041
+19:09 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+19:09 [Info] [First plugin] OnActiveItemChanged works! player: 7513238[527034/7513238]; itemId: 527041; oldActiveItem: Item.geiger.counterx1.527041
+19:10 [Info] [First plugin] OnActiveItemChange works! player: 8333177[527285/8333177]; itemId: 527292
+19:10 [Info] [First plugin] OnActiveItemChanged works! player: 8333177[527285/8333177]; itemId: 527292; oldActiveItem: Item.geiger.counterx1.527292
+19:13 [Info] [First plugin] OnActiveItemChange works! player: 7359365[527860/7359365]; itemId: 527867
+19:13 [Info] [First plugin] OnActiveItemChanged works! player: 7359365[527860/7359365]; itemId: 527867; oldActiveItem: Item.geiger.counterx1.527867
+19:13 [Info] [First plugin] OnActiveItemChange works! player: 9547760[527874/9547760]; itemId: 527881
+19:13 [Info] [First plugin] OnActiveItemChanged works! player: 9547760[527874/9547760]; itemId: 527881; oldActiveItem: Item.geiger.counterx1.527881
+19:14 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+19:14 [Info] [First plugin] OnActiveItemChange works! player: 5935105[528021/5935105]; itemId: 528028
+19:14 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+19:14 [Info] [First plugin] OnActiveItemChanged works! player: 5935105[528021/5935105]; itemId: 528028; oldActiveItem: Item.geiger.counterx1.528028
+19:18 [Info] [First plugin] OnActiveItemChange works! player: 8216775[528822/8216775]; itemId: 528829
+19:18 [Info] [First plugin] OnActiveItemChanged works! player: 8216775[528822/8216775]; itemId: 528829; oldActiveItem: Item.geiger.counterx1.528829
+19:20 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+19:20 [Info] [First plugin] OnActiveItemChange works! player: 9521017[529307/9521017]; itemId: 529314
+19:20 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+19:20 [Info] [First plugin] OnActiveItemChanged works! player: 9521017[529307/9521017]; itemId: 529314; oldActiveItem: Item.geiger.counterx1.529314
+19:20 [Info] [First plugin] OnActiveItemChange works! player: 9311748[529321/9311748]; itemId: 529328
+19:20 [Info] [First plugin] OnActiveItemChanged works! player: 9311748[529321/9311748]; itemId: 529328; oldActiveItem: Item.geiger.counterx1.529328
+19:20 [Info] [First plugin] OnActiveItemChange works! player: 6701072[529335/6701072]; itemId: 529342
+19:20 [Info] [First plugin] OnActiveItemChanged works! player: 6701072[529335/6701072]; itemId: 529342; oldActiveItem: Item.geiger.counterx1.529342
+19:31 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+19:31 [Info] [First plugin] OnActiveItemChange works! player: 2436470[531687/2436470]; itemId: 531696
+19:31 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+19:31 [Info] [First plugin] OnActiveItemChanged works! player: 2436470[531687/2436470]; itemId: 531696; oldActiveItem: Item.flashlight.heldx1.531696
+19:33 [Info] [First plugin] OnActiveItemChange works! player: 2337239[532044/2337239]; itemId: 532051
+19:33 [Info] [First plugin] OnActiveItemChanged works! player: 2337239[532044/2337239]; itemId: 532051; oldActiveItem: Item.geiger.counterx1.532051
+19:33 [Info] [First plugin] OnActiveItemChange works! player: 9623998[532058/9623998]; itemId: 532065
+19:33 [Info] [First plugin] OnActiveItemChanged works! player: 9623998[532058/9623998]; itemId: 532065; oldActiveItem: Item.geiger.counterx1.532065
+19:37 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+19:37 [Info] [First plugin] OnActiveItemChange works! player: 4073531[532950/4073531]; itemId: 532957
+19:37 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+19:37 [Info] [First plugin] OnActiveItemChanged works! player: 4073531[532950/4073531]; itemId: 532957; oldActiveItem: Item.geiger.counterx1.532957
+19:50 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+19:50 [Info] [First plugin] OnActiveItemChange works! player: 6467031[535441/6467031]; itemId: 535448
+19:50 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+19:50 [Info] [First plugin] OnActiveItemChanged works! player: 6467031[535441/6467031]; itemId: 535448; oldActiveItem: Item.geiger.counterx1.535448
+20:00 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+20:00 [Info] [First plugin] OnActiveItemChange works! player: 6788932[537598/6788932]; itemId: 537605
+20:00 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+20:00 [Info] [First plugin] OnActiveItemChanged works! player: 6788932[537598/6788932]; itemId: 537605; oldActiveItem: Item.geiger.counterx1.537605
+20:04 [Info] [First plugin] OnActiveItemChange works! player: 8500711[538528/8500711]; itemId: 538535
+20:04 [Info] [First plugin] OnActiveItemChanged works! player: 8500711[538528/8500711]; itemId: 538535; oldActiveItem: Item.geiger.counterx1.538535
+20:07 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+20:07 [Info] [First plugin] OnActiveItemChange works! player: 17662[539062/17662]; itemId: 539069
+20:07 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+20:07 [Info] [First plugin] OnActiveItemChanged works! player: 17662[539062/17662]; itemId: 539069; oldActiveItem: Item.geiger.counterx1.539069
+20:08 [Info] [First plugin] OnActiveItemChange works! player: 2514967[539272/2514967]; itemId: 539279
+20:08 [Info] [First plugin] OnActiveItemChanged works! player: 2514967[539272/2514967]; itemId: 539279; oldActiveItem: Item.geiger.counterx1.539279
+20:09 [Info] [First plugin] OnActiveItemChange works! player: 3759810[539520/3759810]; itemId: 539527
+20:09 [Info] [First plugin] OnActiveItemChanged works! player: 3759810[539520/3759810]; itemId: 539527; oldActiveItem: Item.geiger.counterx1.539527
+20:13 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+20:13 [Info] [First plugin] OnActiveItemChange works! player: 8762189[540329/8762189]; itemId: 540336
+20:13 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+20:13 [Info] [First plugin] OnActiveItemChanged works! player: 8762189[540329/8762189]; itemId: 540336; oldActiveItem: Item.geiger.counterx1.540336
+20:17 [Info] [First plugin] OnActiveItemChange works! player: 9359899[541150/9359899]; itemId: 541157
+20:17 [Info] [First plugin] OnActiveItemChanged works! player: 9359899[541150/9359899]; itemId: 541157; oldActiveItem: Item.geiger.counterx1.541157
+20:20 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+20:20 [Info] [First plugin] OnActiveItemChange works! player: 1654530[541810/1654530]; itemId: 541817
+20:20 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+20:20 [Info] [First plugin] OnActiveItemChanged works! player: 1654530[541810/1654530]; itemId: 541817; oldActiveItem: Item.geiger.counterx1.541817
+20:20 [Info] [First plugin] OnActiveItemChange works! player: 6709648[541824/6709648]; itemId: 541831
+20:20 [Info] [First plugin] OnActiveItemChanged works! player: 6709648[541824/6709648]; itemId: 541831; oldActiveItem: Item.geiger.counterx1.541831
+20:22 [Info] [First plugin] OnActiveItemChange works! player: 9742623[542279/9742623]; itemId: 542286
+20:22 [Info] [First plugin] OnActiveItemChanged works! player: 9742623[542279/9742623]; itemId: 542286; oldActiveItem: Item.geiger.counterx1.542286
+20:24 [Info] [First plugin] OnActiveItemChange works! player: 7583931[542799/7583931]; itemId: 542808
+20:24 [Info] [First plugin] OnActiveItemChanged works! player: 7583931[542799/7583931]; itemId: 542808; oldActiveItem: Item.flashlight.heldx1.542808
+20:30 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+20:30 [Info] [First plugin] OnActiveItemChange works! player: 6534025[543902/6534025]; itemId: 543906
+20:30 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+20:30 [Info] [First plugin] OnActiveItemChanged works! player: 6534025[543902/6534025]; itemId: 543906; oldActiveItem: Item.lmg.m249x1.543906
+20:30 [Info] [First plugin] OnActiveItemChange works! player: 5513531[543910/5513531]; itemId: 543914
+20:30 [Info] [First plugin] OnActiveItemChanged works! player: 5513531[543910/5513531]; itemId: 543914; oldActiveItem: Item.lmg.m249x1.543914
+20:30 [Info] [First plugin] OnActiveItemChange works! player: 2136532[543918/2136532]; itemId: 543922
+20:30 [Info] [First plugin] OnActiveItemChanged works! player: 2136532[543918/2136532]; itemId: 543922; oldActiveItem: Item.lmg.m249x1.543922
+20:30 [Info] [First plugin] OnActiveItemChange works! player: 7041856[543926/7041856]; itemId: 543930
+20:30 [Info] [First plugin] OnActiveItemChanged works! player: 7041856[543926/7041856]; itemId: 543930; oldActiveItem: Item.lmg.m249x1.543930
+20:30 [Info] [First plugin] OnActiveItemChange works! player: 3982732[543934/3982732]; itemId: 543938
+20:30 [Info] [First plugin] OnActiveItemChanged works! player: 3982732[543934/3982732]; itemId: 543938; oldActiveItem: Item.lmg.m249x1.543938
+20:30 [Info] [First plugin] OnActiveItemChange works! player: 1580967[544128/1580967]; itemId: 544137
+20:30 [Info] [First plugin] OnActiveItemChanged works! player: 1580967[544128/1580967]; itemId: 544137; oldActiveItem: Item.flashlight.heldx1.544137
+20:31 [Info] [First plugin] OnActiveItemChange works! player: 8435786[544417/8435786]; itemId: 544426
+20:31 [Info] [First plugin] OnActiveItemChanged works! player: 8435786[544417/8435786]; itemId: 544426; oldActiveItem: Item.flashlight.heldx1.544426
+20:35 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+20:35 [Info] [First plugin] OnActiveItemChange works! player: 9408368[545212/9408368]; itemId: 545219
+20:35 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+20:35 [Info] [First plugin] OnActiveItemChanged works! player: 9408368[545212/9408368]; itemId: 545219; oldActiveItem: Item.geiger.counterx1.545219
+20:39 [Info] [First plugin] OnActiveItemChange works! player: 3634504[546269/3634504]; itemId: 546276
+20:39 [Info] [First plugin] OnActiveItemChanged works! player: 3634504[546269/3634504]; itemId: 546276; oldActiveItem: Item.geiger.counterx1.546276
+20:41 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+20:41 [Info] [First plugin] OnActiveItemChange works! player: 949052[546541/949052]; itemId: 546548
+20:41 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+20:41 [Info] [First plugin] OnActiveItemChanged works! player: 949052[546541/949052]; itemId: 546548; oldActiveItem: Item.geiger.counterx1.546548
+20:43 [Info] [First plugin] OnActiveItemChange works! player: 7628058[546955/7628058]; itemId: 546962
+20:43 [Info] [First plugin] OnActiveItemChanged works! player: 7628058[546955/7628058]; itemId: 546962; oldActiveItem: Item.geiger.counterx1.546962
+20:44 [Info] [First plugin] OnActiveItemChange works! player: 5421104[547250/5421104]; itemId: 547257
+20:44 [Info] [First plugin] OnActiveItemChanged works! player: 5421104[547250/5421104]; itemId: 547257; oldActiveItem: Item.geiger.counterx1.547257
+20:47 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+20:47 [Info] [First plugin] OnActiveItemChange works! player: 4921312[547915/4921312]; itemId: 547922
+20:47 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+20:47 [Info] [First plugin] OnActiveItemChanged works! player: 4921312[547915/4921312]; itemId: 547922; oldActiveItem: Item.geiger.counterx1.547922
+20:49 [Info] [First plugin] OnActiveItemChange works! player: 859435[548459/859435]; itemId: 548466
+20:49 [Info] [First plugin] OnActiveItemChanged works! player: 859435[548459/859435]; itemId: 548466; oldActiveItem: Item.geiger.counterx1.548466
+20:59 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+20:59 [Info] [First plugin] OnActiveItemChange works! player: 1306657[550453/1306657]; itemId: 550460
+20:59 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+20:59 [Info] [First plugin] OnActiveItemChanged works! player: 1306657[550453/1306657]; itemId: 550460; oldActiveItem: Item.geiger.counterx1.550460
+21:01 [Info] [First plugin] OnActiveItemChange works! player: 5608505[550856/5608505]; itemId: 550863
+21:01 [Info] [First plugin] OnActiveItemChanged works! player: 5608505[550856/5608505]; itemId: 550863; oldActiveItem: Item.geiger.counterx1.550863
+21:03 [Info] [First plugin] OnActiveItemChange works! player: 1102161[551198/1102161]; itemId: 551205
+21:03 [Info] [First plugin] OnActiveItemChanged works! player: 1102161[551198/1102161]; itemId: 551205; oldActiveItem: Item.geiger.counterx1.551205
+21:05 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+21:05 [Info] [First plugin] OnActiveItemChange works! player: 9392899[551511/9392899]; itemId: 551518
+21:05 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+21:05 [Info] [First plugin] OnActiveItemChanged works! player: 9392899[551511/9392899]; itemId: 551518; oldActiveItem: Item.geiger.counterx1.551518
+21:06 [Info] [First plugin] OnActiveItemChange works! player: 6323809[551700/6323809]; itemId: 551707
+21:06 [Info] [First plugin] OnActiveItemChanged works! player: 6323809[551700/6323809]; itemId: 551707; oldActiveItem: Item.geiger.counterx1.551707
+21:10 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+21:10 [Info] [First plugin] OnActiveItemChange works! player: 9700737[552563/9700737]; itemId: 552570
+21:10 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+21:10 [Info] [First plugin] OnActiveItemChanged works! player: 9700737[552563/9700737]; itemId: 552570; oldActiveItem: Item.geiger.counterx1.552570
+21:15 [Info] [First plugin] OnActiveItemChange works! player: 7766060[553213/7766060]; itemId: 553220
+21:15 [Info] [First plugin] OnActiveItemChanged works! player: 7766060[553213/7766060]; itemId: 553220; oldActiveItem: Item.geiger.counterx1.553220
+21:18 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+21:18 [Info] [First plugin] OnActiveItemChange works! player: 7574519[553720/7574519]; itemId: 553727
+21:18 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+21:18 [Info] [First plugin] OnActiveItemChanged works! player: 7574519[553720/7574519]; itemId: 553727; oldActiveItem: Item.geiger.counterx1.553727
+21:21 [Info] [First plugin] OnActiveItemChange works! player: 6349357[554491/6349357]; itemId: 554498
+21:21 [Info] [First plugin] OnActiveItemChanged works! player: 6349357[554491/6349357]; itemId: 554498; oldActiveItem: Item.geiger.counterx1.554498
+21:24 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+21:24 [Info] [First plugin] OnActiveItemChange works! player: 3241360[555150/3241360]; itemId: 555159
+21:24 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+21:24 [Info] [First plugin] OnActiveItemChanged works! player: 3241360[555150/3241360]; itemId: 555159; oldActiveItem: Item.flashlight.heldx1.555159
+21:26 [Info] [First plugin] OnActiveItemChange works! player: 6815346[555874/6815346]; itemId: 555883
+21:26 [Info] [First plugin] OnActiveItemChanged works! player: 6815346[555874/6815346]; itemId: 555883; oldActiveItem: Item.flashlight.heldx1.555883
+21:32 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+21:32 [Info] [First plugin] OnActiveItemChange works! player: 662355[557103/662355]; itemId: 557112
+21:32 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+21:32 [Info] [First plugin] OnActiveItemChanged works! player: 662355[557103/662355]; itemId: 557112; oldActiveItem: Item.flashlight.heldx1.557112
+21:32 [Info] [First plugin] OnActiveItemChange works! player: 9186345[557488/9186345]; itemId: 557495
+21:32 [Info] [First plugin] OnActiveItemChanged works! player: 9186345[557488/9186345]; itemId: 557495; oldActiveItem: Item.geiger.counterx1.557495
+21:41 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+21:41 [Info] [First plugin] OnActiveItemChange works! player: 7203120[559558/7203120]; itemId: 559565
+21:41 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+21:41 [Info] [First plugin] OnActiveItemChanged works! player: 7203120[559558/7203120]; itemId: 559565; oldActiveItem: Item.geiger.counterx1.559565
+21:41 [Info] [First plugin] OnActiveItemChange works! player: 4686292[559572/4686292]; itemId: 559579
+21:41 [Info] [First plugin] OnActiveItemChanged works! player: 4686292[559572/4686292]; itemId: 559579; oldActiveItem: Item.geiger.counterx1.559579
+21:43 [Info] [First plugin] OnActiveItemChange works! player: 5323706[559805/5323706]; itemId: 559812
+21:43 [Info] [First plugin] OnActiveItemChanged works! player: 5323706[559805/5323706]; itemId: 559812; oldActiveItem: Item.geiger.counterx1.559812
+21:47 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+21:47 [Info] [First plugin] OnActiveItemChange works! player: 6152045[560532/6152045]; itemId: 560539
+21:47 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+21:47 [Info] [First plugin] OnActiveItemChanged works! player: 6152045[560532/6152045]; itemId: 560539; oldActiveItem: Item.geiger.counterx1.560539
+21:56 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+21:56 [Info] [First plugin] OnActiveItemChange works! player: 5613530[562352/5613530]; itemId: 562359
+21:56 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+21:56 [Info] [First plugin] OnActiveItemChanged works! player: 5613530[562352/5613530]; itemId: 562359; oldActiveItem: Item.geiger.counterx1.562359
+21:57 [Info] [First plugin] OnActiveItemChange works! player: 8993261[562629/8993261]; itemId: 562636
+21:57 [Info] [First plugin] OnActiveItemChanged works! player: 8993261[562629/8993261]; itemId: 562636; oldActiveItem: Item.geiger.counterx1.562636
+21:57 [Info] [First plugin] OnActiveItemChange works! player: 8544572[562643/8544572]; itemId: 562650
+21:57 [Info] [First plugin] OnActiveItemChanged works! player: 8544572[562643/8544572]; itemId: 562650; oldActiveItem: Item.geiger.counterx1.562650
+22:02 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+22:02 [Info] [First plugin] OnActiveItemChange works! player: 5187223[563858/5187223]; itemId: 563865
+22:02 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+22:02 [Info] [First plugin] OnActiveItemChanged works! player: 5187223[563858/5187223]; itemId: 563865; oldActiveItem: Item.geiger.counterx1.563865
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 825967[564095/825967]; itemId: 564099
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 825967[564095/825967]; itemId: 564099; oldActiveItem: Item.rifle.lr300x1.564099
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 4338723[564109/4338723]; itemId: 564113
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 4338723[564109/4338723]; itemId: 564113; oldActiveItem: Item.rifle.lr300x1.564113
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 4067529[564123/4067529]; itemId: 564127
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 4067529[564123/4067529]; itemId: 564127; oldActiveItem: Item.smg.mp5x1.564127
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 4266126[564140/4266126]; itemId: 564144
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 4266126[564140/4266126]; itemId: 564144; oldActiveItem: Item.pistol.m92x1.564144
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 5853149[564154/5853149]; itemId: 564158
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 5853149[564154/5853149]; itemId: 564158; oldActiveItem: Item.pistol.m92x1.564158
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 8111573[564168/8111573]; itemId: 564172
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 8111573[564168/8111573]; itemId: 564172; oldActiveItem: Item.rifle.lr300x1.564172
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 3945389[564182/3945389]; itemId: 564186
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 3945389[564182/3945389]; itemId: 564186; oldActiveItem: Item.shotgun.spas12x1.564186
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 3502530[564199/3502530]; itemId: 564203
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 3502530[564199/3502530]; itemId: 564203; oldActiveItem: Item.pistol.m92x1.564203
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 4466262[564213/4466262]; itemId: 564217
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 4466262[564213/4466262]; itemId: 564217; oldActiveItem: Item.rifle.lr300x1.564217
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 3901057[564227/3901057]; itemId: 564231
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 3901057[564227/3901057]; itemId: 564231; oldActiveItem: Item.rifle.lr300x1.564231
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 9523722[564241/9523722]; itemId: 564245
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 9523722[564241/9523722]; itemId: 564245; oldActiveItem: Item.rifle.lr300x1.564245
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 2926972[564255/2926972]; itemId: 564259
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 2926972[564255/2926972]; itemId: 564259; oldActiveItem: Item.rifle.lr300x1.564259
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 5392099[564269/5392099]; itemId: 564273
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 5392099[564269/5392099]; itemId: 564273; oldActiveItem: Item.smg.mp5x1.564273
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 1511690[564286/1511690]; itemId: 564290
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 1511690[564286/1511690]; itemId: 564290; oldActiveItem: Item.pistol.m92x1.564290
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 5937289[564300/5937289]; itemId: 564304
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 5937289[564300/5937289]; itemId: 564304; oldActiveItem: Item.smg.mp5x1.564304
+22:03 [Info] [First plugin] OnActiveItemChange works! player: 9686301[564319/9686301]; itemId: 564326
+22:03 [Info] [First plugin] OnActiveItemChanged works! player: 9686301[564319/9686301]; itemId: 564326; oldActiveItem: Item.geiger.counterx1.564326
+22:09 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+22:09 [Info] [First plugin] OnActiveItemChange works! player: 5932682[565594/5932682]; itemId: 565601
+22:09 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+22:09 [Info] [First plugin] OnActiveItemChanged works! player: 5932682[565594/5932682]; itemId: 565601; oldActiveItem: Item.geiger.counterx1.565601
+22:16 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+22:16 [Info] [First plugin] OnActiveItemChange works! player: 1078153[567131/1078153]; itemId: 567138
+22:16 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+22:16 [Info] [First plugin] OnActiveItemChanged works! player: 1078153[567131/1078153]; itemId: 567138; oldActiveItem: Item.geiger.counterx1.567138
+22:21 [Info] [First plugin] OnActiveItemChange works! player: 368602[568185/368602]; itemId: 568192
+22:21 [Info] [First plugin] OnActiveItemChanged works! player: 368602[568185/368602]; itemId: 568192; oldActiveItem: Item.geiger.counterx1.568192
+22:22 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+22:22 [Info] [First plugin] OnActiveItemChange works! player: 242110[568376/242110]; itemId: 568383
+22:22 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+22:22 [Info] [First plugin] OnActiveItemChanged works! player: 242110[568376/242110]; itemId: 568383; oldActiveItem: Item.geiger.counterx1.568383
+22:40 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+22:40 [Info] [First plugin] OnActiveItemChange works! player: 774065[572035/774065]; itemId: 572042
+22:40 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+22:40 [Info] [First plugin] OnActiveItemChanged works! player: 774065[572035/774065]; itemId: 572042; oldActiveItem: Item.geiger.counterx1.572042
+22:43 [Info] [First plugin] OnActiveItemChange works! player: 3630746[572590/3630746]; itemId: 572597
+22:43 [Info] [First plugin] OnActiveItemChanged works! player: 3630746[572590/3630746]; itemId: 572597; oldActiveItem: Item.geiger.counterx1.572597
+22:43 [Info] [First plugin] OnActiveItemChange works! player: 2750079[572604/2750079]; itemId: 572611
+22:43 [Info] [First plugin] OnActiveItemChanged works! player: 2750079[572604/2750079]; itemId: 572611; oldActiveItem: Item.geiger.counterx1.572611
+22:45 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+22:45 [Info] [First plugin] OnActiveItemChange works! player: 4342633[573008/4342633]; itemId: 573015
+22:45 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+22:45 [Info] [First plugin] OnActiveItemChanged works! player: 4342633[573008/4342633]; itemId: 573015; oldActiveItem: Item.geiger.counterx1.573015
+22:45 [Info] [First plugin] OnActiveItemChange works! player: 8597043[573022/8597043]; itemId: 573029
+22:45 [Info] [First plugin] OnActiveItemChanged works! player: 8597043[573022/8597043]; itemId: 573029; oldActiveItem: Item.geiger.counterx1.573029
+22:48 [Info] [First plugin] OnActiveItemChange works! player: 9440486[573694/9440486]; itemId: 573701
+22:48 [Info] [First plugin] OnActiveItemChanged works! player: 9440486[573694/9440486]; itemId: 573701; oldActiveItem: Item.geiger.counterx1.573701
+22:48 [Info] [First plugin] OnActiveItemChange works! player: 376260[573708/376260]; itemId: 573715
+22:48 [Info] [First plugin] OnActiveItemChanged works! player: 376260[573708/376260]; itemId: 573715; oldActiveItem: Item.geiger.counterx1.573715
+22:48 [Info] [First plugin] OnActiveItemChange works! player: 8889707[573722/8889707]; itemId: 573729
+22:48 [Info] [First plugin] OnActiveItemChanged works! player: 8889707[573722/8889707]; itemId: 573729; oldActiveItem: Item.geiger.counterx1.573729
+22:50 [Info] [First plugin] OnActiveItemChange works! player: 1674458[574155/1674458]; itemId: 574162
+22:50 [Info] [First plugin] OnActiveItemChanged works! player: 1674458[574155/1674458]; itemId: 574162; oldActiveItem: Item.geiger.counterx1.574162
+22:51 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+22:51 [Info] [First plugin] OnActiveItemChange works! player: 157836[574438/157836]; itemId: 574445
+22:51 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+22:51 [Info] [First plugin] OnActiveItemChanged works! player: 157836[574438/157836]; itemId: 574445; oldActiveItem: Item.geiger.counterx1.574445
+22:54 [Info] [First plugin] OnActiveItemChange works! player: 4724757[575138/4724757]; itemId: 575145
+22:54 [Info] [First plugin] OnActiveItemChanged works! player: 4724757[575138/4724757]; itemId: 575145; oldActiveItem: Item.geiger.counterx1.575145
+22:59 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+22:59 [Info] [First plugin] OnActiveItemChange works! player: 843767[576216/843767]; itemId: 576223
+22:59 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+22:59 [Info] [First plugin] OnActiveItemChanged works! player: 843767[576216/843767]; itemId: 576223; oldActiveItem: Item.geiger.counterx1.576223
+23:13 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+23:13 [Info] [First plugin] OnActiveItemChange works! player: 4042319[578936/4042319]; itemId: 578943
+23:13 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+23:13 [Info] [First plugin] OnActiveItemChanged works! player: 4042319[578936/4042319]; itemId: 578943; oldActiveItem: Item.geiger.counterx1.578943
+23:13 [Info] [First plugin] OnActiveItemChange works! player: 20825[578996/20825]; itemId: 579000
+23:13 [Info] [First plugin] OnActiveItemChanged works! player: 20825[578996/20825]; itemId: 579000; oldActiveItem: Item.lmg.m249x1.579000
+23:13 [Info] [First plugin] OnActiveItemChange works! player: 5948557[579004/5948557]; itemId: 579008
+23:13 [Info] [First plugin] OnActiveItemChanged works! player: 5948557[579004/5948557]; itemId: 579008; oldActiveItem: Item.lmg.m249x1.579008
+23:13 [Info] [First plugin] OnActiveItemChange works! player: 6410513[579012/6410513]; itemId: 579016
+23:13 [Info] [First plugin] OnActiveItemChanged works! player: 6410513[579012/6410513]; itemId: 579016; oldActiveItem: Item.lmg.m249x1.579016
+23:13 [Info] [First plugin] OnActiveItemChange works! player: 4477952[579020/4477952]; itemId: 579024
+23:13 [Info] [First plugin] OnActiveItemChanged works! player: 4477952[579020/4477952]; itemId: 579024; oldActiveItem: Item.lmg.m249x1.579024
+23:13 [Info] [First plugin] OnActiveItemChange works! player: 8832037[579028/8832037]; itemId: 579032
+23:13 [Info] [First plugin] OnActiveItemChanged works! player: 8832037[579028/8832037]; itemId: 579032; oldActiveItem: Item.lmg.m249x1.579032
+23:20 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+23:20 [Info] [First plugin] OnActiveItemChange works! player: 1451982[580160/1451982]; itemId: 580167
+23:20 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+23:20 [Info] [First plugin] OnActiveItemChanged works! player: 1451982[580160/1451982]; itemId: 580167; oldActiveItem: Item.geiger.counterx1.580167
+23:30 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+23:30 [Info] [First plugin] OnActiveItemChange works! player: 4116326[582679/4116326]; itemId: 582688
+23:30 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+23:30 [Info] [First plugin] OnActiveItemChanged works! player: 4116326[582679/4116326]; itemId: 582688; oldActiveItem: Item.flashlight.heldx1.582688
+23:36 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+23:36 [Info] [First plugin] OnActiveItemChange works! player: 6966297[584133/6966297]; itemId: 584140
+23:36 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+23:36 [Info] [First plugin] OnActiveItemChanged works! player: 6966297[584133/6966297]; itemId: 584140; oldActiveItem: Item.geiger.counterx1.584140
+23:40 [Info] [First plugin] OnActiveItemChange works! player: 9094459[584984/9094459]; itemId: 584991
+23:40 [Info] [First plugin] OnActiveItemChanged works! player: 9094459[584984/9094459]; itemId: 584991; oldActiveItem: Item.geiger.counterx1.584991
+23:40 [Info] [First plugin] OnActiveItemChange works! player: 7327015[584998/7327015]; itemId: 585005
+23:40 [Info] [First plugin] OnActiveItemChanged works! player: 7327015[584998/7327015]; itemId: 585005; oldActiveItem: Item.geiger.counterx1.585005
+23:40 [Info] [First plugin] OnActiveItemChange works! player: 6435385[585012/6435385]; itemId: 585019
+23:40 [Info] [First plugin] OnActiveItemChanged works! player: 6435385[585012/6435385]; itemId: 585019; oldActiveItem: Item.geiger.counterx1.585019
+23:47 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChange', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChange'
+23:47 [Info] [First plugin] OnActiveItemChange works! player: 4297154[586561/4297154]; itemId: 586568
+23:47 [Warning] 'RustCore v2.0.4315' is using deprecated hook 'OnActiveItemChanged', which will stop working on Wednesday, 01 January 2020. Please ask the author to update to 'OnActiveItemChanged'
+23:47 [Info] [First plugin] OnActiveItemChanged works! player: 4297154[586561/4297154]; itemId: 586568; oldActiveItem: Item.geiger.counterx1.586568
+23:47 [Info] [First plugin] OnActiveItemChange works! player: 4668729[586575/4668729]; itemId: 586582
+23:47 [Info] [First plugin] OnActiveItemChanged works! player: 4668729[586575/4668729]; itemId: 586582; oldActiveItem: Item.geiger.counterx1.586582
+23:48 [Info] [First plugin] OnActiveItemChange works! player: 6124165[586742/6124165]; itemId: 586749
+23:48 [Info] [First plugin] OnActiveItemChanged works! player: 6124165[586742/6124165]; itemId: 586749; oldActiveItem: Item.geiger.counterx1.586749
+23:50 [Info] [First plugin] OnActiveItemChange works! player: 5600244[587103/5600244]; itemId: 587110
+23:50 [Info] [First plugin] OnActiveItemChanged works! player: 5600244[587103/5600244]; itemId: 587110; oldActiveItem: Item.geiger.counterx1.587110
+23:50 [Info] [First plugin] OnActiveItemChange works! player: 9652672[587117/9652672]; itemId: 587124
+23:50 [Info] [First plugin] OnActiveItemChanged works! player: 9652672[587117/9652672]; itemId: 587124; oldActiveItem: Item.geiger.counterx1.587124
+23:52 [Info] [First plugin] OnActiveItemChange works! player: 1558270[587598/1558270]; itemId: 587605
+23:52 [Info] [First plugin] OnActiveItemChanged works! player: 1558270[587598/1558270]; itemId: 587605; oldActiveItem: Item.geiger.counterx1.587605

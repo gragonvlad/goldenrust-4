@@ -1,0 +1,28 @@
+00:38 [Warning] [Welcomer] ✔ Zetu joined the server from Romania
+00:41 [Warning] [Welcomer] ✘ Zetu left the server (Kicked: Steam: AuthTicketCanceled)
+01:01 [Warning] [Stalker] Ejection Radiation ended
+02:35 [Warning] [Stalker] Ejection Radiation ended
+03:42 [Warning] [Stalker] Ejection Radiation ended
+05:10 [Warning] [Stalker] Ejection Radiation ended
+06:51 [Warning] [Stalker] Ejection Radiation ended
+08:33 [Warning] [Stalker] Ejection Radiation ended
+09:57 [Warning] [Stalker] Ejection Radiation ended
+11:32 [Warning] [Stalker] Ejection Radiation ended
+12:32 [Warning] Calling 'Unload' on 'AdminRadar v4.5.5' took 526ms
+12:32 [Info] Unloaded plugin Admin Radar v4.5.5 by nivex
+12:32 [Info] Unloaded plugin Convert Status v1.0.8 by Orange
+12:32 [Warning] Calling 'Unload' on 'FlyingCarpet v1.1.1' took 185ms
+12:32 [Info] Unloaded plugin FlyingCarpet v1.1.1 by RFC1920
+12:32 [Info] Unloaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+12:32 [Info] Unloaded plugin OreBonus v1.2.1 by r3dapple
+12:32 [Info] Unloaded plugin PermissionsManager v0.1.1 by Steenamaroo
+12:32 [Info] Unloaded plugin RSM v1.0.2 by RustServerManager
+12:32 [Info] Unloaded plugin RustStore v1.21.41 by Bombardir, Moscow.OVH
+12:32 [Info] Unloaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+12:32 [Info] Unloaded plugin Tools Gather Manager v1.0.6 by Wasdik
+12:32 [Info] Unloaded plugin Vanish v0.7.4 by nivex
+12:32 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:32 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:32 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:32 [Info] Unloaded plugin Welcomer v1.4.1 by Tricky
+12:32 [Info] Unloaded plugin Stalker v1.0.4 by EcoSmile

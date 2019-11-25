@@ -1,0 +1,4 @@
+04:21 [Info] GameStores sent stats successful!
+16:03 [Warning] [Welcomer] ✔ [Assasina] Sick joined the server from Germany
+16:30 [Info] GameStores sent stats successful!
+16:30 [Warning] [Welcomer] ✘ [Assasina] Sick left the server (Disconnected)

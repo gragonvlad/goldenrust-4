@@ -1,0 +1,177 @@
+15:24 [Info] Loading Oxide Core v2.0.3867...
+15:24 [Info] Loading extensions...
+15:24 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+15:24 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+15:24 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+15:24 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+15:24 [Info] Loaded extension Rust v2.0.4339 by Oxide and Contributors
+15:24 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+15:24 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+15:24 [Info] Using Covalence provider for game 'Rust'
+15:24 [Info] Loading plugins...
+15:24 [Info] Loaded plugin Rust v2.0.4339 by Oxide and Contributors
+15:24 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+15:24 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+15:24 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+15:24 [Info] AdminRadar, ConvertStatus, GameStoresRUST, ImageLibrary, InfoPanel, PermissionsManager, Quests, RSM, StackSizeController, ToolsGatherManager, Vanish, Wasdik, Wasdik2, Wasdik3, Wasdik4, Wasdik5, Wasdik6 and Welcomer were compiled successfully in 5347ms
+15:24 [Info] Loaded plugin Admin Radar v4.5.5 by nivex
+15:24 [Info] Loaded plugin Convert Status v1.0.8 by Orange
+15:24 [Info] Loaded plugin GameStoresRUST v0.3.0 by HOUGAN # GAMESTORES
+15:24 [Info] Loaded plugin Image Library v2.0.46 by Absolut & K1lly0u
+15:24 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+15:24 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+15:24 [Info] Loaded plugin Quests v2.2.7 by k1lly0u modet GRAZYCAT
+15:24 [Info] Loaded plugin RSM v1.0.2 by RustServerManager
+15:24 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+15:24 [Info] Loaded plugin Tools Gather Manager v1.0.6 by Wasdik
+15:24 [Info] Loaded plugin Vanish v0.7.4 by nivex
+15:24 [Info] [First plugin] A baby plugin is born!
+15:24 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+15:24 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+15:24 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+15:24 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+15:24 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+15:24 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+15:24 [Info] Loaded plugin Welcomer v1.4.1 by Tricky
+15:29 [Info] Oxide.Rust Version: 2.0.4339
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'OnItemAddedToContainer' on plugin 'Quests v2.2.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Quests.hasQuests (System.UInt64 player) [0x00000] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.OnItemAddedToContainer (ItemContainer container, Item item) [0x00048] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.Quests.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0052b] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Info] IP address from external API: 88.99.162.170
+15:29 [Info] [Admin Radar] Took 135.0316ms to cache 2144/22154 entities
+15:29 [Warning] Calling 'OnServerInitialized' on 'AdminRadar v4.5.5' took 190ms
+15:29 [Error] Failed to call hook 'GetImage' on plugin 'ImageLibrary v2.0.46' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.GetImage (System.String imageName, System.UInt64 imageId, System.Boolean returnUrl) [0x00012] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0032e] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Error] Failed to call hook 'GetImage' on plugin 'ImageLibrary v2.0.46' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.GetImage (System.String imageName, System.UInt64 imageId, System.Boolean returnUrl) [0x00012] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0032e] in <0d842f34d37f4633aa305cc6945edf32>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:29 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.46' took 245ms
+15:29 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 462ms
+15:29 [Warning] Calling 'OnServerInitialized' on 'Quests v2.2.7' took 141ms
+15:29 [Warning] [GameStoresRUST] -----------------------------
+15:29 [Warning] [GameStoresRUST]  GameStores 0.3.0 (c) 2019
+15:29 [Warning] [GameStoresRUST]       Initialized - OK
+15:29 [Warning] [GameStoresRUST] -----------------------------

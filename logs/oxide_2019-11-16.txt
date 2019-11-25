@@ -1,0 +1,285 @@
+10:22 [Info] Loading Oxide Core v2.0.3867...
+10:22 [Info] Loading extensions...
+10:22 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+10:22 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+10:22 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+10:22 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+10:22 [Info] Loaded extension Rust v2.0.4356 by Oxide and Contributors
+10:22 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+10:22 [Info] Loaded extension Unity v2.0.3768 by Oxide and Contributors
+10:22 [Info] Using Covalence provider for game 'Rust'
+10:22 [Info] Loading plugins...
+10:22 [Info] Loaded plugin Rust v2.0.4356 by Oxide and Contributors
+10:22 [Info] Loaded plugin Unity v2.0.3768 by Oxide and Contributors
+10:22 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+10:22 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+10:22 [Info] AdminRadar, ConvertStatus, GameStoresRUST, ImageLibrary, InfoPanel, PermissionsManager, Quests, RSM, StackSizeController, ToolsGatherManager, Vanish, Wasdik, Wasdik0, Wasdik2, Wasdik3, Wasdik4, Wasdik5, Wasdik6 and Welcomer were compiled successfully in 0ms
+10:22 [Info] Loaded plugin Admin Radar v4.5.5 by nivex
+10:22 [Info] Loaded plugin Convert Status v1.0.8 by Orange
+10:22 [Info] Loaded plugin GameStoresRUST v0.3.0 by HOUGAN # GAMESTORES
+10:22 [Info] Loaded plugin Image Library v2.0.46 by Absolut & K1lly0u
+10:22 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+10:22 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+10:22 [Info] Loaded plugin Quests v2.2.7 by k1lly0u modet GRAZYCAT
+10:22 [Info] Loaded plugin RSM v1.0.2 by RustServerManager
+10:22 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+10:22 [Info] Loaded plugin Tools Gather Manager v1.0.6 by Wasdik
+10:22 [Info] Loaded plugin Vanish v0.7.4 by nivex
+10:22 [Info] [First plugin] A baby plugin is born!
+10:22 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+10:22 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+10:22 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+10:22 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+10:22 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+10:22 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+10:22 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+10:22 [Info] Loaded plugin Welcomer v1.4.1 by Tricky
+10:26 [Info] Oxide.Rust Version: 2.0.4356
+10:26 [Info] IP address from external API: 88.99.162.170
+10:26 [Info] [Admin Radar] Took 199.0226ms to cache 7084/23082 entities
+10:26 [Warning] Calling 'OnServerInitialized' on 'AdminRadar v4.5.5' took 231ms
+10:26 [Error] Failed to call hook 'GetImage' on plugin 'ImageLibrary v2.0.46' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.GetImage (System.String imageName, System.UInt64 imageId, System.Boolean returnUrl) [0x00012] in <4babf7c349f146c28b3fce4c74894f03>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0032e] in <4babf7c349f146c28b3fce4c74894f03>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+10:26 [Error] Failed to call hook 'GetImage' on plugin 'ImageLibrary v2.0.46' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ImageLibrary.GetImage (System.String imageName, System.UInt64 imageId, System.Boolean returnUrl) [0x00012] in <4babf7c349f146c28b3fce4c74894f03>:0 
+  at Oxide.Plugins.ImageLibrary.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0032e] in <4babf7c349f146c28b3fce4c74894f03>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+10:26 [Warning] [Image Library] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+10:26 [Warning] [Image Library] 17 images queued for restoration, 0 images failed
+10:26 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.46' took 210ms
+10:26 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 314ms
+10:26 [Warning] [GameStoresRUST] -----------------------------
+10:26 [Warning] [GameStoresRUST]  GameStores 0.3.0 (c) 2019
+10:26 [Warning] [GameStoresRUST]       Initialized - OK
+10:26 [Warning] [GameStoresRUST] -----------------------------
+10:26 [Info] [Image Library] Starting order Image restoration from previous database
+11:41 [Error] Plugin filename Wasdik5 — копия.cs must match the main class Wasdik5 (should be Wasdik5.cs)
+11:41 [Error] Plugin filename Wasdik7.cs must match the main class Wasdik5 (should be Wasdik5.cs)
+11:42 [Info] Wasdik7 was compiled successfully in 2057ms
+11:42 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+11:45 [Warning] [Welcomer] ✔ Wasdik joined the server from Ukraine
+11:46 [Info] Wasdik7 was compiled successfully in 2115ms
+11:46 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+11:46 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+11:47 [Error] Error while compiling: Wasdik7.cs(25,16): error CS0111: A member `Oxide.Plugins.Wasdik7.TestCommand(Oxide.Core.Libraries.Covalence.IPlayer, string, string[])' is already defined. Rename this member or use different parameter types
+11:48 [Info] Wasdik7 was compiled successfully in 358ms
+11:48 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+11:48 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+11:49 [Info] Wasdik7 was compiled successfully in 283ms
+11:49 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+11:49 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+11:53 [Info] Wasdik7 was compiled successfully in 2278ms
+11:53 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+11:53 [Warning] Missing plugin name prefix 'wasdik7.' for permission 'epicstuff.use' (by plugin 'First plugin')
+11:53 [Warning] Wasdik7 has replaced the 'test' command previously registered by Wasdik
+11:53 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+11:55 [Info] Test11 successful!, command: test11
+11:55 [Info] Test12 successful!
+11:56 [Info] Wasdik7 was compiled successfully in 2130ms
+11:56 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+11:56 [Warning] Missing plugin name prefix 'wasdik7.' for permission 'epicstuff.use' (by plugin 'First plugin')
+11:56 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+11:57 [Info] Wasdik7 was compiled successfully in 310ms
+11:57 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+11:57 [Warning] Missing plugin name prefix 'wasdik7.' for permission 'epicstuff.use' (by plugin 'First plugin')
+11:57 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+11:58 [Info] Wasdik7 was compiled successfully in 2105ms
+11:58 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+11:58 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:01 [Info] Wasdik7 was compiled successfully in 2238ms
+12:01 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:01 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:02 [Info] Wasdik7 was compiled successfully in 2149ms
+12:02 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:02 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:04 [Info] Wasdik7 was compiled successfully in 2121ms
+12:04 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:04 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:04 [Info] Wasdik7 was compiled successfully in 263ms
+12:04 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:04 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:05 [Info] Wasdik7 was compiled successfully in 2253ms
+12:05 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:05 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:06 [Info] Wasdik7 was compiled successfully in 234ms
+12:06 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:06 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:06 [Info] Test11 successful!, name: True
+12:06 [Info] Wasdik7 was compiled successfully in 229ms
+12:06 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:06 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:06 [Info] Test11 successful!, name: Server Console
+12:07 [Info] Wasdik7 was compiled successfully in 210ms
+12:07 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:07 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:07 [Info] Test11 successful!, name: server_console
+12:07 [Info] Test11 successful!, name: server_console
+12:08 [Info] Wasdik7 was compiled successfully in 2059ms
+12:08 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:08 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:08 [Warning] [Convert Status] Wasdik converted out of admin status
+12:10 [Info] Wasdik7 was compiled successfully in 2108ms
+12:10 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:10 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:13 [Error] Error while compiling: Wasdik7.cs(22,34): error CS0246: The type or namespace name `TimeSpan' could not be found. Are you missing `System' using directive?
+12:13 [Warning] [Convert Status] Wasdik converted into admin status
+12:13 [Warning] [Convert Status] Wasdik converted out of admin status
+12:14 [Info] Wasdik7 was compiled successfully in 297ms
+12:14 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:14 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:14 [Warning] [Welcomer] ✘ Wasdik left the server (Kicked: type Test11)
+12:18 [Info] Wasdik7 was compiled successfully in 2021ms
+12:18 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:18 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:18 [Info] Wasdik7 was compiled successfully in 254ms
+12:18 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:18 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:19 [Warning] [Welcomer] ✔ Wasdik joined the server from Ukraine
+12:19 [Warning] [Welcomer] ✘ Wasdik left the server (Kicked: type Test11)
+12:20 [Error] Error while compiling: Wasdik7.cs(23,9): error CS1525: Unexpected symbol `.', expecting `,', `;', or `='
+12:20 [Info] Wasdik7 was compiled successfully in 745ms
+12:20 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:20 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:20 [Warning] [Welcomer] ✔ Wasdik joined the server from Ukraine
+12:22 [Info] Wasdik7 was compiled successfully in 2144ms
+12:22 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:22 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:25 [Warning] [Convert Status] Wasdik converted into admin status
+12:25 [Warning] [Convert Status] Wasdik converted out of admin status
+12:25 [Warning] [Convert Status] Wasdik converted into admin status
+12:27 [Warning] [Convert Status] Wasdik converted out of admin status
+12:28 [Warning] [Convert Status] Wasdik converted into admin status
+12:28 [Warning] [Convert Status] Wasdik converted out of admin status
+12:29 [Info] Wasdik7 was compiled successfully in 2123ms
+12:29 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:29 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:29 [Warning] [Convert Status] Wasdik converted into admin status
+12:29 [Warning] [Convert Status] Wasdik converted out of admin status
+12:29 [Info] Wasdik7 was compiled successfully in 379ms
+12:29 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:29 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:31 [Info] Wasdik7 was compiled successfully in 2173ms
+12:31 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:31 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:32 [Info] Wasdik7 was compiled successfully in 2234ms
+12:32 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:32 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:33 [Info] Wasdik7 was compiled successfully in 283ms
+12:33 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:33 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:33 [Info] Wasdik7 was compiled successfully in 331ms
+12:33 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:33 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:33 [Info] Wasdik7 was compiled successfully in 240ms
+12:33 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:33 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:35 [Error] Error while compiling: Wasdik7.cs(23,11): error CS0131: The left-hand side of an assignment must be a variable, a property or an indexer
+12:36 [Info] Wasdik7 was compiled successfully in 2158ms
+12:36 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:36 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:37 [Info] Wasdik7 was compiled successfully in 304ms
+12:37 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:37 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:38 [Info] Wasdik7 was compiled successfully in 2036ms
+12:38 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:38 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:39 [Error] Error while compiling: Wasdik7.cs(23,11): error CS1501: No overload for method `Kill' takes `1' arguments
+12:39 [Info] Wasdik7 was compiled successfully in 310ms
+12:39 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:39 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:41 [Info] Wasdik7 was compiled successfully in 2127ms
+12:41 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:41 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:41 [Info] Wasdik7 was compiled successfully in 236ms
+12:41 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:41 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:42 [Warning] [Welcomer] ✘ Kidsaw left the server (Disconnected)
+12:42 [Warning] [Welcomer] ✔ Wasdik joined the server from Ukraine
+12:45 [Info] Wasdik7 was compiled successfully in 2087ms
+12:45 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:45 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:47 [Error] Error while compiling: Wasdik7.cs(24,20): error CS0128: A local variable named `position' is already defined in this scope
+12:48 [Error] Error while compiling: Wasdik7.cs(24,57): error CS1503: Argument `#2' cannot convert `double' expression to type `float'
+12:48 [Info] Wasdik7 was compiled successfully in 410ms
+12:48 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:48 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:50 [Info] Wasdik7 was compiled successfully in 2140ms
+12:50 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:50 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:51 [Info] Wasdik7 was compiled successfully in 2213ms
+12:51 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:51 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:52 [Info] Wasdik7 was compiled successfully in 238ms
+12:52 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:52 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:54 [Error] Error while compiling: Wasdik7.cs(28,16): error CS0111: A member `Oxide.Plugins.Wasdik7.TestCommand11(Oxide.Core.Libraries.Covalence.IPlayer, string, string[])' is already defined. Rename this member or use different parameter types
+12:54 [Info] Wasdik7 was compiled successfully in 405ms
+12:54 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:54 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:55 [Info] Wasdik7 was compiled successfully in 267ms
+12:55 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:55 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:56 [Info] Wasdik7 was compiled successfully in 2077ms
+12:56 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:56 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+12:57 [Info] Wasdik7 was compiled successfully in 390ms
+12:57 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+12:57 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+13:01 [Info] Wasdik7 was compiled successfully in 2014ms
+13:01 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+13:01 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+13:01 [Info] Wasdik7 was compiled successfully in 352ms
+13:01 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+13:01 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+13:01 [Warning] [Convert Status] Wasdik converted into admin status
+13:01 [Warning] [Convert Status] Wasdik converted out of admin status
+13:04 [Info] Wasdik7 was compiled successfully in 2012ms
+13:04 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+13:04 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+13:07 [Info] Wasdik7 was compiled successfully in 2062ms
+13:07 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+13:07 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+13:07 [Warning] [Convert Status] Wasdik converted into admin status
+13:07 [Warning] [Convert Status] Wasdik converted out of admin status
+13:09 [Info] Wasdik7 was compiled successfully in 2048ms
+13:09 [Info] Unloaded plugin First plugin v0.1.0 by Wasdik
+13:09 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+14:00 [Warning] [DEBUG] Load requested for plugin which is already loading: Kits
+14:00 [Info] Kits was compiled successfully in 2310ms
+14:00 [Info] Loaded plugin Kits v3.2.93 by Reneb
+14:11 [Warning] [Convert Status] Wasdik converted into admin status
+14:17 [Warning] [Convert Status] Wasdik converted out of admin status
+14:17 [Warning] [Convert Status] Wasdik converted into admin status
+14:18 [Warning] [Convert Status] Wasdik converted out of admin status
+14:23 [Warning] [Convert Status] Wasdik converted into admin status
+14:26 [Warning] Duplicate permission registered 'kits.admin' (by plugin 'Kits')
+14:26 [Warning] Duplicate permission registered 'kits.consolegive' (by plugin 'Kits')
+14:29 [Warning] [Convert Status] Wasdik converted out of admin status
+14:30 [Warning] [Convert Status] Wasdik converted into admin status
+14:30 [Warning] [Convert Status] Wasdik converted out of admin status
+14:32 [Warning] [Convert Status] Wasdik converted into admin status
+14:35 [Warning] [Convert Status] Wasdik converted out of admin status
+14:44 [Info] Unloaded plugin Kits v3.2.93 by Reneb
+14:44 [Info] Loaded plugin Kits v3.2.93 by Reneb
+14:44 [Warning] [Convert Status] Wasdik converted into admin status
+14:49 [Warning] Duplicate permission registered 'kits.admin' (by plugin 'Kits')
+14:49 [Warning] Duplicate permission registered 'kits.consolegive' (by plugin 'Kits')
+14:50 [Warning] Duplicate permission registered 'kits.admin' (by plugin 'Kits')
+14:50 [Warning] Duplicate permission registered 'kits.consolegive' (by plugin 'Kits')
+14:52 [Warning] [Convert Status] Wasdik converted out of admin status
+14:52 [Warning] [Convert Status] Wasdik converted into admin status
+14:53 [Warning] [Convert Status] Wasdik converted out of admin status
+14:54 [Warning] [Convert Status] Wasdik converted into admin status
+14:54 [Warning] [Convert Status] Wasdik converted out of admin status
+14:56 [Warning] [Convert Status] Wasdik converted into admin status
+14:57 [Warning] [Convert Status] Wasdik converted out of admin status
+14:57 [Info] GameStores sent stats successful!
+14:58 [Info] Unloaded plugin Kits v3.2.93 by Reneb
+15:00 [Info] Loaded plugin Kits v3.2.93 by Reneb
+15:21 [Warning] [Welcomer] ✘ Wasdik left the server (Disconnected)

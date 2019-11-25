@@ -1,0 +1,36 @@
+09:57 [Info] Loading Oxide Core v2.0.3867...
+09:57 [Info] Loading extensions...
+09:57 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+09:57 [Info] Local compiler MD5: 0
+09:57 [Info] Compiler hashes did not match, downloading latest
+09:57 [Info] Downloading Compiler.exe for .cs (C#) plugin compilation
+09:57 [Info] Local hash did not match remote hash for Compiler.exe, attempting download again
+09:57 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+09:57 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+09:57 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+09:57 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+09:57 [Info] Loaded extension Rust v2.0.4280 by Oxide and Contributors
+09:57 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+09:57 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+09:57 [Info] Using Covalence provider for game 'Rust'
+09:57 [Info] Loading plugins...
+09:57 [Info] Loaded plugin Rust v2.0.4280 by Oxide and Contributors
+09:57 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+09:57 [Info] RSM was compiled successfully in 3662ms
+09:57 [Info] Loaded plugin RSM v1.0.2 by RustServerManager
+10:00 [Info] AdminRadar, ConvertStatus, InfoPanel, ToolsGatherManager, PermissionsManager, Vanish, Wasdik, Wasdik2 and Welcomer were compiled successfully in 3904ms
+10:00 [Info] Loaded plugin Admin Radar v4.5.5 by nivex
+10:00 [Info] Loaded plugin Convert Status v1.0.8 by Orange
+10:00 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+10:00 [Info] Loaded plugin Tools Gather Manager v1.0.6 by Wasdik
+10:00 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+10:00 [Info] Loaded plugin Vanish v0.7.4 by nivex
+10:00 [Info] [First plugin] A baby plugin is born!
+10:00 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+10:00 [Info] Loaded plugin First plugin v0.1.0 by Wasdik
+10:00 [Info] Loaded plugin Welcomer v1.4.1 by Tricky
+10:03 [Info] Oxide.Rust Version: 2.0.4280
+10:03 [Info] IP address from external API: 88.99.162.170
+10:03 [Info] [Admin Radar] Took 223.032ms to cache 7104/23039 entities
+10:03 [Warning] Calling 'OnServerInitialized' on 'AdminRadar v4.5.5' took 264ms
+10:03 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 584ms

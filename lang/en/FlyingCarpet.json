@@ -1,0 +1,21 @@
+{
+  "helptext1": "Flying Carpet instructions:",
+  "helptext2": "  type /fc to spawn a Flying Carpet",
+  "helptext3": "  type /fcd to destroy your flyingcarpet.",
+  "helptext4": "  type /fcc to show a count of your carpets",
+  "notauthorized": "You don't have permission to do that !!",
+  "notfound": "Could not locate a carpet.  You must be within {0} meters for this!!",
+  "notflyingcarpet": "You are not piloting a flying carpet !!",
+  "maxcarpets": "You have reached the maximum allowed carpets",
+  "landingcarpet": "Carpet landing sequence started !!",
+  "risingcarpet": "Carpet takeoff sequence started !!",
+  "carpetlocked": "You must unlock the Carpet first !!",
+  "carpetspawned": "Flying Carpet spawned!  Don't forget to lock it !!",
+  "carpetdestroyed": "Flying Carpet destroyed !!",
+  "carpetfuel": "You will need fuel to fly.  Do not start without fuel !!",
+  "carpetnofuel": "You have been granted unlimited fly time, no fuel required !!",
+  "nofuel": "You're out of fuel !!",
+  "lowfuel": "You're low on fuel !!",
+  "nocarpets": "You have no Carpets",
+  "currcarpets": "Current Carpets : {0}"
+}

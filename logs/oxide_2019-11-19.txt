@@ -1,0 +1,43 @@
+02:37 [Warning] [Welcomer] ✔ ☣ Jericho² joined the server from Turkey
+02:42 [Info] GameStores sent stats successful!
+02:55 [Info] GameStores sent stats successful!
+03:00 [Info] GameStores sent stats successful!
+03:11 [Info] GameStores sent stats successful!
+03:12 [Info] GameStores sent stats successful!
+03:14 [Info] GameStores sent stats successful!
+03:19 [Info] GameStores sent stats successful!
+03:21 [Info] GameStores sent stats successful!
+03:24 [Info] GameStores sent stats successful!
+03:27 [Info] GameStores sent stats successful!
+03:28 [Info] GameStores sent stats successful!
+03:34 [Info] GameStores sent stats successful!
+03:37 [Info] GameStores sent stats successful!
+03:38 [Info] GameStores sent stats successful!
+03:40 [Info] GameStores sent stats successful!
+03:42 [Info] GameStores sent stats successful!
+03:46 [Info] GameStores sent stats successful!
+03:52 [Info] GameStores sent stats successful!
+03:55 [Info] GameStores sent stats successful!
+04:39 [Warning] [Welcomer] ✘ ☣ Jericho² left the server (Disconnected)
+16:44 [Warning] [Welcomer] ✔ ☣ Jericho² joined the server from Turkey
+17:01 [Info] GameStores sent stats successful!
+17:02 [Info] GameStores sent stats successful!
+17:06 [Info] GameStores sent stats successful!
+17:07 [Info] GameStores sent stats successful!
+17:09 [Info] GameStores sent stats successful!
+17:10 [Info] GameStores sent stats successful!
+17:11 [Info] GameStores sent stats successful!
+17:14 [Info] GameStores sent stats successful!
+17:20 [Info] GameStores sent stats successful!
+17:22 [Info] GameStores sent stats successful!
+17:24 [Info] GameStores sent stats successful!
+17:25 [Info] GameStores sent stats successful!
+17:30 [Info] GameStores sent stats successful!
+17:32 [Info] GameStores sent stats successful!
+17:52 [Info] GameStores sent stats successful!
+17:55 [Info] GameStores sent stats successful!
+18:01 [Info] GameStores sent stats successful!
+18:14 [Info] GameStores sent stats successful!
+18:24 [Warning] [Welcomer] ✘ ☣ Jericho² left the server (Disconnected)
+20:32 [Warning] [Welcomer] ✔ ☣ Jericho² joined the server from Turkey
+20:59 [Warning] [Welcomer] ✘ ☣ Jericho² left the server (Disconnected)
