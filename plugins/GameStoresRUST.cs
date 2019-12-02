@@ -957,7 +957,7 @@ namespace Oxide.Plugins
                         Components =
                         {
                             new CuiRawImageComponent { Png = (string) ImageLibrary.Call("GetImage", "GameStoresRUSTBucket") },
-                            new CuiRectTransformComponent { AnchorMin = "0 1", AnchorMax = "0 1", OffsetMin = "8 -40", OffsetMax = "43 -6" }
+                            new CuiRectTransformComponent { AnchorMin = "0 1", AnchorMax = "0 1", OffsetMin = "8 -60", OffsetMax = "43 -26" }
                         }
                     });
 
@@ -977,7 +977,7 @@ namespace Oxide.Plugins
                         Components =
                         {
                             new CuiRawImageComponent { Url = Settings.InterfaceSettings.BucketURL }, 
-                            new CuiRectTransformComponent { AnchorMin = "0 1", AnchorMax = "0 1", OffsetMin = "8 -40", OffsetMax = "43 -6" }
+                            new CuiRectTransformComponent { AnchorMin = "0 1", AnchorMax = "0 1", OffsetMin = "8 -60", OffsetMax = "43 -26" }
                         }
                     });
 
@@ -993,8 +993,9 @@ namespace Oxide.Plugins
             {
                 container.Add(new CuiButton
                 {
-                    RectTransform = { AnchorMin = "0 1", AnchorMax = "0 1", OffsetMin = "8 -40", OffsetMax = "43 -6" }, 
-                    Button = { Color = "1 1 1 0.6", Sprite = "assets/icons/open.png", Command = "chat.say /store" }, 
+                    //RectTransform = { AnchorMin = "0 1", AnchorMax = "0 1", OffsetMin = "8 -40", OffsetMax = "43 -6" }, 
+					RectTransform = { AnchorMin = "0 1", AnchorMax = "0 1", OffsetMin = "8 -60", OffsetMax = "43 -26" },
+                    Button = { Color = "0.8314 0.6863 0.2157 1", Sprite = "assets/icons/open.png", Command = "chat.say /store" }, 
                     Text = { Text = "" }
                 }, "Overlay", IconLayer);
             }

@@ -467,36 +467,6 @@ namespace Oxide.Plugins
                         }
                     },
 					
-					// Wasdik START
-					{ "BradleyEvent", new PanelConfig
-                        {
-                            Available = true,
-                            Dock = "TopLeftDock",
-                            Order = 5,
-                            AnchorX = "Left",
-                            AnchorY = "Bottom",
-                            Margin = "0 0 0 0.01",
-                            Width = 0.1f,
-                            Height = 0.95f,
-                            BackgroundColor = "0 0 0 0.4",
-                            Image = new PanelImageConfig
-                            {
-                                Order =  1,
-                                Width = 0.75f,
-                                Height = 0.8f,
-                                Margin = "0 0.15 0.1 0.1",
-                                Url = "https://imgur.com/pQALi5w", 
-                            },
-                            PanelSettings = new Dictionary<string,object>
-                            {
-                                { "InactiveColor", "1 1 1 0.1" },
-                                 { "ActiveColor", "0 1 0 1" },
-                            }
-
-                        }
-                    },
-					// Wasdik END
-					
                     { "Radiation", new PanelConfig
                         {
                             Available = false,
@@ -768,9 +738,6 @@ namespace Oxide.Plugins
             Helicopter = new HelicopterEvent();
 			Cargoship = new CargoshipEvent();
             Chinook = new ChinookEvent();
-			// Wasdik START
-			Bradley = new BradleyEvent();
-			// Wasdik END
 
             CompassObj = new Compass
             (
@@ -883,19 +850,6 @@ namespace Oxide.Plugins
             {
                 Cargoship.Refresh(storedData, PlayerPanels);
             }
-			
-			// Wasdik START
-			ActiveBradleys = UnityEngine.Object.FindObjectsOfType<BradleyAPC>().ToList();
-
-            if (ActiveBradleys.Count > 0)
-            {
-                CheckBradley();
-            }
-            else
-            {
-                Bradley.Refresh(storedData, PlayerPanels);
-            }
-			// Wasdik END
         }
 
         void OnPlayerInit(BasePlayer player)
@@ -964,18 +918,6 @@ namespace Oxide.Plugins
                     CheckCargoship();
                 }
             }
-			
-			// Wasdik START
-			if (Entity is Bradley && Settings.Panels["BradleyEvent"].Available)
-            {
-                ActiveBradleys.Add((Bradley)Entity);
-
-                if (BradleyTimer == false)
-                {
-                    CheckBradley();
-                }
-            }
-			// Wasdik END
 
             if (Entity is CH47Helicopter && Settings.Panels["ChinookEvent"].Available)
             {
@@ -1314,12 +1256,6 @@ namespace Oxide.Plugins
         private List<CargoShip> ActiveCargoships;
         private bool CargoshipTimer = false;
 
-		// Wasdik START
-		private BradleyEvent Bradley;
-        private List<Bradley> ActiveBradleys;
-        private bool BradleyTimer = false;
-		// Wasdik END
-
         private ChinookEvent Chinook;
         private List<CH47Helicopter> ActiveChinooks;
         private bool ChinookTimer = false;
@@ -1329,9 +1265,6 @@ namespace Oxide.Plugins
         private BaseHelicopter ActiveHelicopter;
 		private CH47Helicopter ActiveChinook;
         private CargoShip ActiveCargoship;
-		// Wasdik START
-		private BradleyAPC ActiveBradley;
-		// Wasdik END
 
         public class AirplaneEvent
         {
@@ -1459,51 +1392,7 @@ namespace Oxide.Plugins
                 }
             }
         }
-		
-		// Wasdik START
-		public class BradleyEvent
-        {
-            public bool isActive = false;
-            public Color ImageColor;
 
-            public BradleyEvent()
-            {
-                ImageColor = ColorEx.Parse(Settings.GetPanelSettingsValue("BradleyEvent", "InactiveColor", "1 1 1 0.1"));
-            }
-
-            public void SetActivity(bool active)
-            {
-                isActive = active;
-
-                if (isActive)
-                {
-                    ImageColor = ColorEx.Parse(Settings.GetPanelSettingsValue("BradleyEvent", "ActiveColor", "1 0 0 1"));
-                    return;
-                }
-
-                ImageColor = ColorEx.Parse(Settings.GetPanelSettingsValue("BradleyEvent", "InactiveColor", "1 1 1 0.1"));
-            }
-
-            public void Refresh(StoredData storedData, Dictionary<string, Dictionary<string, IPanel>> panels)
-            {
-                if (!Settings.CheckPanelAvailability("BradleyEvent"))
-                    return;
-
-                foreach (var panel in panels)
-                {
-                    IPanel iPanel;
-                    if (!panel.Value.TryGetValue("BradleyEventImage", out iPanel)) continue; 
-                    var panelRawImage = (IPanelRawImage)iPanel;
-                    if (panelRawImage.Color != ImageColor)
-                    {
-                        panelRawImage.Color = ImageColor;
-                        panelRawImage.Refresh();
-                    }
-                }
-            }
-        }
-		// Wasdik END
-		
         public class ChinookEvent
         {
             public bool isActive = false;
@@ -1669,31 +1558,6 @@ namespace Oxide.Plugins
             Cargoship.Refresh(storedData, PlayerPanels);
             CargoshipTimer = false;
         }
-		
-		// Wasdik START
-		public void CheckBradley()
-        {
-            ActiveBradleys.RemoveAll(p => !p.IsValid() || !p.gameObject.activeInHierarchy);
-
-            if (ActiveBradleys.Count > 0)
-            {
-
-                if (Bradley.isActive == false)
-                {
-                    Bradley.SetActivity(true);
-                    Bradley.Refresh(storedData, PlayerPanels);
-                }
-
-                BradleyTimer = true;
-                timer.In(5, CheckBradley);
-                return;
-            }
-
-            Bradley.SetActivity(false);
-            Bradley.Refresh(storedData, PlayerPanels);
-            BradleyTimer = false;
-        }
-		// Wasdik END
 
         public void CheckChinook()
         {
@@ -2818,11 +2682,6 @@ namespace Oxide.Plugins
                     case "CargoShipEventImage":
                         ((IPanelRawImage)Panel.Value).Color = Cargoship.ImageColor;
                         break;
-					// Wasdik START
-					case "CargoShipEventImage":
-                        ((IPanelRawImage)Panel.Value).Color = Bradley.ImageColor;
-                        break;
-					// Wasdik END
                     case "CompassText":
                         ((IPanelText) Panel.Value).Content = CompassObj.GetDirection(player.UserIDString);
                         break;
