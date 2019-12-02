@@ -1,0 +1,60 @@
+﻿{
+  "Distance between buttons": 0.02,
+  "FadeIn and FadeOut time": 0.3,
+  "List of menus": [
+    {
+      "Menu title": "Teleport",
+      "Menu title color": "#ffffff",
+      "Menu title size": 12,
+      "Menu title height": 0.1,
+      "Menu permission": "gamemenu.use",
+      "Chat command to open the menu": "menu",
+      "Console command to open the menu": "menu",
+      "Background color": "0.66 0.66 0.66 0.9",
+      "Menu buttons": [
+        {
+          "Button color": "0.0 0.0 0.0 1.0",
+          "Text color": "#ffffff",
+          "Text size": 12,
+          "Button width": 0.4,
+          "Button height": 0.1,
+          "Button text": "Accept TP",
+          "Execute chat (true) or console (false) command": true,
+          "Executing command": "/tpa"
+        },
+        {
+          "Button color": "0.0 0.0 0.0 1.0",
+          "Text color": "#ffffff",
+          "Text size": 12,
+          "Button width": 0.4,
+          "Button height": 0.1,
+          "Button text": "Home 1",
+          "Execute chat (true) or console (false) command": true,
+          "Executing command": "/home 1"
+        }
+      ]
+    },
+    {
+      "Menu title": "Backpack",
+      "Menu title color": "#ffffff",
+      "Menu title size": 12,
+      "Menu title height": 0.1,
+      "Menu permission": "gamemenu.use",
+      "Chat command to open the menu": "menu2",
+      "Console command to open the menu": "menu2",
+      "Background color": "0.66 0.66 0.66 0.9",
+      "Menu buttons": [
+        {
+          "Button color": "0.0 0.0 0.0 1.0",
+          "Text color": "#ffffff",
+          "Text size": 12,
+          "Button width": 0.4,
+          "Button height": 0.1,
+          "Button text": "Open Backpack",
+          "Execute chat (true) or console (false) command": true,
+          "Executing command": "/backpack"
+        }
+      ]
+    }
+  ]
+}

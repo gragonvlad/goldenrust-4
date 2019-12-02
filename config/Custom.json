@@ -1,0 +1,17 @@
+{
+  "Item Skin": 1676503124,
+  "Item Name": "<color=blue>Grandiy</color>",
+  "Item Description": "<color=blue>Grandiy who in [Grand Rust]</color>",
+  "The chance of dropping an item in boxes": 100,
+  "Processing radiation": 75,
+  "List of boxes in which to spawn it": [
+    "crate_basic",
+    "crate_elite",
+    "crate_normal",
+    "crate_normal_2",
+    "bradley_crate",
+    "heli_crate",
+    "loot-barrel-1",
+    "loot-barrel-2"
+  ]
+}
